@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Doan%20Ngoc%20Trong&fontSize=48&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%204%20years%20React%20%26%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Frontend Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Doan+Ngoc+Trong;Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -40,13 +40,13 @@ const trongDN = {
 
 ## Experience
 
-| | Period | Company | What I shipped |
-| --- | --- | --- | --- |
-| <img src="assets/companies/hds.png" width="32" height="32" alt="HDS" /> | **Jun 2026 – Present** | **HD Securities (HDS)** | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) · [Play Store](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi) — eKYC NFC, orders, market, research |
-| <img src="assets/companies/vinmec.png" width="32" height="32" alt="Vinmec" /> | **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | Vinmec EMR — digital patient records & clinical workflows |
-| <img src="assets/companies/shinhan.png" width="72" alt="Shinhan" /> | **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa — realtime market, eKYC, AI chatbot |
-| <img src="assets/companies/bitech.png" width="32" height="32" alt="Bitech" /> | **Sep 2023 – Nov 2024** | **Bitech** | BiEdu & Bikids — education web + mobile |
-| <img src="assets/apps/nami.png" width="32" height="32" alt="Nami" /> | **Oct 2022 – Feb 2023** | **Nami Exchange** | Crypto trading app — UI rebuild, performance |
+|                                                                               | Period                  | Company                        | What I shipped                                                                                                                                                                               |
+| ----------------------------------------------------------------------------- | ----------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="assets/companies/hds.png" width="32" height="32" alt="HDS" />       | **Jun 2026 – Present**  | **HD Securities (HDS)**        | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) · [Play Store](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi) — eKYC NFC, orders, market, research |
+| <img src="assets/companies/vinmec.png" width="32" height="32" alt="Vinmec" /> | **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | Vinmec EMR — digital patient records & clinical workflows                                                                                                                                    |
+| <img src="assets/companies/shinhan.png" width="72" alt="Shinhan" />           | **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa — realtime market, eKYC, AI chatbot                                                                                                                                                 |
+| <img src="assets/companies/bitech.png" width="32" height="32" alt="Bitech" /> | **Sep 2023 – Nov 2024** | **Bitech**                     | BiEdu & Bikids — education web + mobile                                                                                                                                                      |
+| <img src="assets/apps/nami.png" width="32" height="32" alt="Nami" />          | **Oct 2022 – Feb 2023** | **Nami Exchange**              | Crypto trading app — UI rebuild, performance                                                                                                                                                 |
 
 ---
 
@@ -202,4 +202,4 @@ const trongDN = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="" />
