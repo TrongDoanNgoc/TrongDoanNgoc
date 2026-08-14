@@ -22,36 +22,17 @@
 
 ## About Me
 
+Frontend developer **3+ years** — ReactJS & React Native. Đang ship **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** tại **HD Securities**.
+
+Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([HomeMind](https://apps.apple.com/app/id6779894095)).
+
+Dùng AI (Cursor, MCP, Figma) để ship nhanh — vẫn review, vẫn giữ quality.
+
 ```ts
 const trongDN = {
-  name: "Doan Ngoc Trong",
-  role: "Frontend Developer",
-  experience: "3+ years · ReactJS & React Native",
-  location: "Ho Chi Minh City, Vietnam",
-  education: "Software Engineering · SaiGon Technology University (2019–2023)",
-
-  now: "HD Securities (HDS) — HD Invest trading app",
-
-  shipped: [
-    "HD Invest — HD Securities trading app (eKYC NFC, orders, research)",
-    "Vinmec EMR — exam, diagnosis, prescription, lab/imaging, treatment",
-    "SanXinHa — Shinhan Securities trading app (KRX socket, eKYC, AI chat)",
-    "BiEdu & Bikids — education platforms (web + mobile)",
-    "Nami Exchange — crypto trading app (UI rebuild + performance)",
-    "HomeMind — indie lifestyle app on App Store & Play Store",
-  ],
-
-  stack: {
-    frontend: ["ReactJS", "React Native", "Next.js", "Expo"],
-    language: ["TypeScript", "JavaScript"],
-    ui: ["Tailwind", "Ant Design", "MUI", "Figma"],
-    state: ["Redux", "Zustand", "React Query", "Socket.io"],
-    data: ["Firebase", "Supabase", "Node.js", "MySQL", "MongoDB"],
-    process: ["Agile/Scrum", "Git", "Jira"],
-    ai: ["Cursor · Rules · MCP (Figma / Claude / Slack)"],
-  },
-
-  mindset: "Collaborate hard, ship quality, use AI to move faster — not sloppier.",
+  now: "HD Securities · HD Invest",
+  stack: ["React Native", "React", "TypeScript", "Expo"],
+  ship: "production apps on App Store & Play Store",
 };
 ```
 
@@ -59,13 +40,13 @@ const trongDN = {
 
 ## Experience
 
-| Period | Company | What I shipped |
-|--------|---------|----------------|
-| **2026 – Present** | **HD Securities (HDS)** | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) — trading app: eKYC NFC, orders, market, research |
-| **Nov 2025 – 2026** | **VinSmart Future · Vingroup** | EMR & hospital operations platform for Vinmec — digital patient records, clinical workflows |
-| **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa trading app — realtime market, eKYC, AI chatbot |
-| **Sep 2023 – Nov 2024** | **Bitech** | BiEdu & Bikids — education web + mobile for schools, teachers, parents |
-| **Oct 2022 – Feb 2023** | **Nami Exchange** | Crypto trading app — UI rebuild, performance, defect fixes |
+| Period                  | Company                        | What I shipped                                                                                                           |
+| ----------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **Jun 2026 – Present**  | **HD Securities (HDS)**        | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) — trading app: eKYC NFC, orders, market, research |
+| **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | EMR & hospital operations platform for Vinmec — digital patient records, clinical workflows                              |
+| **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa trading app — realtime market, eKYC, AI chatbot                                                                 |
+| **Sep 2023 – Nov 2024** | **Bitech**                     | BiEdu & Bikids — education web + mobile for schools, teachers, parents                                                   |
+| **Oct 2022 – Feb 2023** | **Nami Exchange**              | Crypto trading app — UI rebuild, performance, defect fixes                                                               |
 
 ---
 
@@ -75,7 +56,7 @@ const trongDN = {
   <tr>
     <td width="50%" valign="top">
       <h3>💹 HD Invest</h3>
-      <p><b>HD Securities (HDS) · Present</b></p>
+      <p><b>HD Securities (HDS) · Jun 2026 – Present</b></p>
       <p>New HD Securities trading app: 3-minute eKYC via NFC CCCD, live market & company data, order book, loan/rights tracking, NAV, expert research (FinAlpha).</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -106,7 +87,7 @@ const trongDN = {
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Vinmec EMR</h3>
-      <p><b>VinSmart Future · Vingroup · Nov 2025 – 2026</b></p>
+      <p><b>VinSmart Future · Vingroup · Nov 2025 – Jun 2026</b></p>
       <p>Electronic Medical Records for doctors & medical staff. Exam, diagnosis, prescription, lab/imaging orders, treatment tracking — digital workflows for hospital ops.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
