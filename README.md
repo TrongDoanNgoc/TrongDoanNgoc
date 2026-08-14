@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Frontend Developer" />
+<img src="assets/header.png" width="100%" alt="Doan Ngoc Trong — Frontend Developer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Doan+Ngoc+Trong;Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
 
@@ -234,4 +234,4 @@ const trongDN = {
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="assets/footer.png" width="100%" alt="" />
