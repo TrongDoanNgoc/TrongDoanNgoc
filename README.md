@@ -62,10 +62,10 @@ const trongDN = {
       <table>
         <tr>
           <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+            <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
           </td>
           <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+            <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
           </td>
         </tr>
       </table>
@@ -78,10 +78,10 @@ const trongDN = {
       <table>
         <tr>
           <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+            <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
           </td>
           <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+            <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
           </td>
         </tr>
       </table>
@@ -102,10 +102,10 @@ const trongDN = {
       <table>
         <tr>
           <td valign="middle">
-            <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+            <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
           </td>
           <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+            <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
           </td>
         </tr>
       </table>
@@ -121,7 +121,7 @@ const trongDN = {
       <table>
         <tr>
           <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+            <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
           </td>
           <td valign="middle">
             <a href="https://bi-edu.bitechco.com"><img src="https://img.shields.io/badge/BiEdu-2563EB?style=for-the-badge" /></a>
@@ -140,10 +140,10 @@ const trongDN = {
       <table>
         <tr>
           <td valign="middle">
-            <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+            <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
           </td>
           <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+            <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
           </td>
         </tr>
       </table>
