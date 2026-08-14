@@ -59,20 +59,32 @@ const trongDN = {
       <h3>HD Invest</h3>
       <p><img src="assets/companies/hds.png" width="18" height="18" alt="" /> <b>HD Securities · Jun 2026 – Present</b></p>
       <p>Trading app: 3-minute eKYC via NFC CCCD, live market, order book, loan/rights, NAV, FinAlpha research.</p>
-      <p>
-        <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
-        <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
-      </p>
+      <table>
+        <tr>
+          <td valign="middle">
+            <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
       <img src="assets/apps/sanxinha.png" width="64" height="64" alt="SanXinHa" />
       <h3>SanXinHa</h3>
       <p><img src="assets/companies/shinhan.png" height="16" alt="" /> <b>Shinhan Securities · Feb 2025 – Nov 2025</b></p>
       <p>Realtime KRX socket, Zustand + React Query, OCR/NFC/FaceID eKYC, AI chatbot + FireAnt news.</p>
-      <p>
-        <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
-        <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
-      </p>
+      <table>
+        <tr>
+          <td valign="middle">
+            <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
@@ -87,10 +99,16 @@ const trongDN = {
       <h3>HomeMind</h3>
       <p><b>Indie product · Owner</b></p>
       <p>Lifestyle app: home zones, wardrobe, AI outfits, family memories & Crush space. Live on stores (v1.0.8).</p>
-      <p>
-        <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
-        <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
-      </p>
+      <table>
+        <tr>
+          <td valign="middle">
+            <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
@@ -100,21 +118,35 @@ const trongDN = {
       <h3>BiEdu & Bikids</h3>
       <p><img src="assets/companies/bitech.png" width="18" height="18" alt="" /> <b>Bitech · Sep 2023 – Nov 2024</b></p>
       <p>Education platforms (web + mobile). Lazy loading, code splitting, caching. Reusable UI + docs.</p>
-      <p>
-        <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
-        <a href="https://bi-edu.bitechco.com"><img src="https://img.shields.io/badge/BiEdu-2563EB?style=for-the-badge" /></a>
-        <a href="https://bikids.edu.vn"><img src="https://img.shields.io/badge/Bikids-F59E0B?style=for-the-badge" /></a>
-      </p>
+      <table>
+        <tr>
+          <td valign="middle">
+            <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://bi-edu.bitechco.com"><img src="https://img.shields.io/badge/BiEdu-2563EB?style=for-the-badge" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://bikids.edu.vn"><img src="https://img.shields.io/badge/Bikids-F59E0B?style=for-the-badge" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
       <img src="assets/apps/nami.png" width="64" height="64" alt="Nami Exchange" />
       <h3>Nami Exchange</h3>
       <p><b>Nami Exchange · Oct 2022 – Feb 2023</b></p>
       <p>Rebuilt trading UI, improved performance, shipped defect fixes on a multi-platform crypto exchange.</p>
-      <p>
-        <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
-        <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
-      </p>
+      <table>
+        <tr>
+          <td valign="middle">
+            <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+          </td>
+          <td valign="middle">
+            <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="40" /></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
