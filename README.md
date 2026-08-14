@@ -200,6 +200,20 @@ const trongDN = {
 ## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+From: 07 August 2026 - To: 14 August 2026
+
+Total Time: 5 hrs 47 mins
+
+TypeScript   3 hrs 18 mins ██████████████░░░░░░░░░░   56.96 %
+JSON         41 mins       ███░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Dart         35 mins       ██░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Bash         30 mins       ██░░░░░░░░░░░░░░░░░░░░░░    8.81 %
+Markdown     23 mins       ██░░░░░░░░░░░░░░░░░░░░░░    6.68 %
+Text         3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.15 %
+INI          3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.90 %
+YAML         2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.81 %
+```
 <!--END_SECTION:waka-->
 
 ---
