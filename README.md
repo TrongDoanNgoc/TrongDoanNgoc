@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Doan%20Ngoc%20Trong&fontSize=48&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%203%20years%20React%20%26%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=3%2B+years+shipping+React+%26+React+Native;Healthcare+%7C+Fintech+%7C+EdTech+%7C+Crypto;EMR+Vinmec+%C2%B7+SanXinHa+%C2%B7+Nami+%C2%B7+HomeMind;AI-assisted+workflows+%7C+Quality-driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Now+at+HD+Securities+%C2%B7+HD+Invest;3%2B+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -30,9 +30,10 @@ const trongDN = {
   location: "Ho Chi Minh City, Vietnam",
   education: "Software Engineering · SaiGon Technology University (2019–2023)",
 
-  now: "VinSmart Future (Vingroup) — EMR & hospital ops for Vinmec",
+  now: "HD Securities (HDS) — HD Invest trading app",
 
   shipped: [
+    "HD Invest — HD Securities trading app (eKYC NFC, orders, research)",
     "Vinmec EMR — exam, diagnosis, prescription, lab/imaging, treatment",
     "SanXinHa — Shinhan Securities trading app (KRX socket, eKYC, AI chat)",
     "BiEdu & Bikids — education platforms (web + mobile)",
@@ -60,7 +61,8 @@ const trongDN = {
 
 | Period | Company | What I shipped |
 |--------|---------|----------------|
-| **Nov 2025 – Present** | **VinSmart Future · Vingroup** | EMR & hospital operations platform for Vinmec — digital patient records, clinical workflows |
+| **2026 – Present** | **HD Securities (HDS)** | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) — trading app: eKYC NFC, orders, market, research |
+| **Nov 2025 – 2026** | **VinSmart Future · Vingroup** | EMR & hospital operations platform for Vinmec — digital patient records, clinical workflows |
 | **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa trading app — realtime market, eKYC, AI chatbot |
 | **Sep 2023 – Nov 2024** | **Bitech** | BiEdu & Bikids — education web + mobile for schools, teachers, parents |
 | **Oct 2022 – Feb 2023** | **Nami Exchange** | Crypto trading app — UI rebuild, performance, defect fixes |
@@ -72,13 +74,17 @@ const trongDN = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Vinmec EMR</h3>
-      <p><b>VinSmart Future · Vingroup · Nov 2025 – Present</b></p>
-      <p>Electronic Medical Records for doctors & medical staff. Exam, diagnosis, prescription, lab/imaging orders, treatment tracking — digital workflows for hospital ops.</p>
+      <h3>💹 HD Invest</h3>
+      <p><b>HD Securities (HDS) · Present</b></p>
+      <p>New HD Securities trading app: 3-minute eKYC via NFC CCCD, live market & company data, order book, loan/rights tracking, NAV, expert research (FinAlpha).</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Healthcare-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Fintech-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/eKYC_NFC-22C55E?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+        <a href="https://www.hdbs.vn"><img src="https://img.shields.io/badge/Web-hdbs.vn-111827?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -99,6 +105,16 @@ const trongDN = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏥 Vinmec EMR</h3>
+      <p><b>VinSmart Future · Vingroup · Nov 2025 – 2026</b></p>
+      <p>Electronic Medical Records for doctors & medical staff. Exam, diagnosis, prescription, lab/imaging orders, treatment tracking — digital workflows for hospital ops.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Healthcare-0EA5E9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏠 HomeMind</h3>
       <p><b>Indie product · Owner</b></p>
       <p>Lifestyle app: home zones, wardrobe, AI outfits, family memories & Crush space. Live on stores (v1.0.8).</p>
@@ -112,6 +128,8 @@ const trongDN = {
         <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 BiEdu & Bikids</h3>
       <p><b>Bitech · Sep 2023 – Nov 2024</b></p>
@@ -126,8 +144,6 @@ const trongDN = {
         <a href="https://bikids.edu.vn"><img src="https://img.shields.io/badge/Bikids-F59E0B?style=for-the-badge" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📈 Nami Exchange</h3>
       <p><b>Nami Exchange · Oct 2022 – Feb 2023</b></p>
@@ -140,16 +156,6 @@ const trongDN = {
         <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
         <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
         <a href="https://nami.exchange"><img src="https://img.shields.io/badge/Web-nami.exchange-111827?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ How I work</h3>
-      <p>Quality-driven frontend. Comfortable owning screens end-to-end: UI, state, realtime, eKYC, AI features, and store releases.</p>
-      <p>Use AI (Cursor, MCP, Figma) to speed up delivery — still review, still ship clean.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -229,6 +235,7 @@ const trongDN = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trong.doanngoc2023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trongdoanngocdev01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://portfolio-dnt.vercel.app)
+[![HD Invest](https://img.shields.io/badge/HD_Invest-0D96F6?style=for-the-badge)](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)
 [![HomeMind](https://img.shields.io/badge/HomeMind_App-9063F1?style=for-the-badge)](https://apps.apple.com/app/id6779894095)
 
 <br/><br/>
