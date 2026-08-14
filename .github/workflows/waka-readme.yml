@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # 00:00 UTC mỗi ngày
+    # Daily at 00:00 UTC
     - cron: "0 0 * * *"
 
 permissions:

@@ -22,11 +22,11 @@
 
 ## About Me
 
-Frontend developer **4 years** — ReactJS & React Native. Đang ship **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** tại **HD Securities**.
+Frontend developer with **4 years** in ReactJS and React Native. Currently shipping **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** at **HD Securities**.
 
 Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([HomeMind](https://apps.apple.com/app/id6779894095)).
 
-Dùng AI (Cursor, MCP, Figma) để ship nhanh — vẫn review, vẫn giữ quality.
+I use AI (Cursor, MCP, Figma) to ship faster — still review, still keep quality.
 
 ```ts
 const trongDN = {
