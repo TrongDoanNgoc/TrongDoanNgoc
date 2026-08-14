@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Doan%20Ngoc%20Trong&fontSize=48&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%203%20years%20React%20%26%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Doan%20Ngoc%20Trong&fontSize=48&fontColor=fff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%204%20years%20React%20%26%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Now+at+HD+Securities+%C2%B7+HD+Invest;3%2B+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20years-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%20years-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh-DA251D?style=for-the-badge" />
 </p>
 
@@ -22,7 +22,7 @@
 
 ## About Me
 
-Frontend developer **3+ years** — ReactJS & React Native. Đang ship **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** tại **HD Securities**.
+Frontend developer **4 years** — ReactJS & React Native. Đang ship **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** tại **HD Securities**.
 
 Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([HomeMind](https://apps.apple.com/app/id6779894095)).
 
@@ -40,13 +40,13 @@ const trongDN = {
 
 ## Experience
 
-| Period                  | Company                        | What I shipped                                                                                                           |
-| ----------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Jun 2026 – Present**  | **HD Securities (HDS)**        | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) — trading app: eKYC NFC, orders, market, research |
-| **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | EMR & hospital operations platform for Vinmec — digital patient records, clinical workflows                              |
-| **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa trading app — realtime market, eKYC, AI chatbot                                                                 |
-| **Sep 2023 – Nov 2024** | **Bitech**                     | BiEdu & Bikids — education web + mobile for schools, teachers, parents                                                   |
-| **Oct 2022 – Feb 2023** | **Nami Exchange**              | Crypto trading app — UI rebuild, performance, defect fixes                                                               |
+| | Period | Company | What I shipped |
+| --- | --- | --- | --- |
+| <img src="assets/companies/hds.png" width="32" height="32" alt="HDS" /> | **Jun 2026 – Present** | **HD Securities (HDS)** | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) · [Play Store](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi) — eKYC NFC, orders, market, research |
+| <img src="assets/companies/vinmec.png" width="32" height="32" alt="Vinmec" /> | **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | Vinmec EMR — digital patient records & clinical workflows |
+| <img src="assets/companies/shinhan.png" width="72" alt="Shinhan" /> | **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa — realtime market, eKYC, AI chatbot |
+| <img src="assets/companies/bitech.png" width="32" height="32" alt="Bitech" /> | **Sep 2023 – Nov 2024** | **Bitech** | BiEdu & Bikids — education web + mobile |
+| <img src="assets/apps/nami.png" width="32" height="32" alt="Nami" /> | **Oct 2022 – Feb 2023** | **Nami Exchange** | Crypto trading app — UI rebuild, performance |
 
 ---
 
@@ -55,88 +55,65 @@ const trongDN = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💹 HD Invest</h3>
-      <p><b>HD Securities (HDS) · Jun 2026 – Present</b></p>
-      <p>New HD Securities trading app: 3-minute eKYC via NFC CCCD, live market & company data, order book, loan/rights tracking, NAV, expert research (FinAlpha).</p>
+      <img src="assets/apps/hd-invest.png" width="64" height="64" alt="HD Invest" />
+      <h3>HD Invest</h3>
+      <p><img src="assets/companies/hds.png" width="18" height="18" alt="" /> <b>HD Securities · Jun 2026 – Present</b></p>
+      <p>Trading app: 3-minute eKYC via NFC CCCD, live market, order book, loan/rights, NAV, FinAlpha research.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Fintech-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/eKYC_NFC-22C55E?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
-        <a href="https://www.hdbs.vn"><img src="https://img.shields.io/badge/Web-hdbs.vn-111827?style=for-the-badge" /></a>
+        <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+        <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 SanXinHa</h3>
-      <p><b>Shinhan Securities Vietnam · Feb 2025 – Nov 2025</b></p>
-      <p>Stock trading app: realtime KRX socket, Zustand + React Query, OCR/NFC/FaceID eKYC, AI chatbot + FireAnt news.</p>
+      <img src="assets/apps/sanxinha.png" width="64" height="64" alt="SanXinHa" />
+      <h3>SanXinHa</h3>
+      <p><img src="assets/companies/shinhan.png" height="16" alt="" /> <b>Shinhan Securities · Feb 2025 – Nov 2025</b></p>
+      <p>Realtime KRX socket, Zustand + React Query, OCR/NFC/FaceID eKYC, AI chatbot + FireAnt news.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
-        <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
-        <a href="https://online.shinhansec.com.vn"><img src="https://img.shields.io/badge/Web-shinhansec-111827?style=for-the-badge" /></a>
+        <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+        <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Vinmec EMR</h3>
+      <img src="assets/companies/vinmec.png" height="40" alt="Vinmec" />
+      <h3>Vinmec EMR</h3>
       <p><b>VinSmart Future · Vingroup · Nov 2025 – Jun 2026</b></p>
-      <p>Electronic Medical Records for doctors & medical staff. Exam, diagnosis, prescription, lab/imaging orders, treatment tracking — digital workflows for hospital ops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Healthcare-0EA5E9?style=flat-square" />
-      </p>
+      <p>EMR for doctors & staff: exam, diagnosis, prescription, lab/imaging orders, treatment tracking.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 HomeMind</h3>
+      <img src="assets/apps/homemind.png" width="64" height="64" alt="HomeMind" />
+      <h3>HomeMind</h3>
       <p><b>Indie product · Owner</b></p>
       <p>Lifestyle app: home zones, wardrobe, AI outfits, family memories & Crush space. Live on stores (v1.0.8).</p>
       <p>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://apps.apple.com/app/id6779894095"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
-        <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+        <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+        <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 BiEdu & Bikids</h3>
-      <p><b>Bitech · Sep 2023 – Nov 2024</b></p>
-      <p>Education platforms (web + mobile). Lazy loading, code splitting, caching. Reusable UI + docs for the team.</p>
+      <img src="assets/apps/biedu.png" width="56" height="56" alt="BiEdu" />
+      <img src="assets/apps/bikids.png" width="56" height="56" alt="Bikids" />
+      <h3>BiEdu & Bikids</h3>
+      <p><img src="assets/companies/bitech.png" width="18" height="18" alt="" /> <b>Bitech · Sep 2023 – Nov 2024</b></p>
+      <p>Education platforms (web + mobile). Lazy loading, code splitting, caching. Reusable UI + docs.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-      <p>
+        <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
         <a href="https://bi-edu.bitechco.com"><img src="https://img.shields.io/badge/BiEdu-2563EB?style=for-the-badge" /></a>
         <a href="https://bikids.edu.vn"><img src="https://img.shields.io/badge/Bikids-F59E0B?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Nami Exchange</h3>
+      <img src="assets/apps/nami.png" width="64" height="64" alt="Nami Exchange" />
+      <h3>Nami Exchange</h3>
       <p><b>Nami Exchange · Oct 2022 – Feb 2023</b></p>
       <p>Rebuilt trading UI, improved performance, shipped defect fixes on a multi-platform crypto exchange.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
-        <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
-        <a href="https://nami.exchange"><img src="https://img.shields.io/badge/Web-nami.exchange-111827?style=for-the-badge" /></a>
+        <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.svg" alt="Download on the App Store" height="40" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" height="58" /></a>
       </p>
     </td>
   </tr>
