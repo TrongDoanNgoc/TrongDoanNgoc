@@ -200,10 +200,7 @@ const trongDN = {
 ## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here automatically after setup -->
 <!--END_SECTION:waka-->
-
-> Setup: [WakaTime](https://wakatime.com/plugins) + [waka-readme Action](https://github.com/marketplace/actions/waka-readme)
 
 ---
 
