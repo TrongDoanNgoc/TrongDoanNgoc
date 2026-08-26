@@ -98,7 +98,7 @@ const trongDN = {
       <img src="assets/apps/private-nest.png" width="64" height="64" alt="Private Nest" />
       <h3>Private Nest</h3>
       <p><b>Indie product · Owner</b></p>
-      <p>Couple-first lifestyle: Crush nest, Nuôi em fund, shared home & wardrobe, AI outfits, memories. Live on stores (v1.0.9).</p>
+      <p>Couple-first lifestyle: Crush nest, fund, wardrobe, AI outfits, memories. Live on stores</p>
       <table>
         <tr>
           <td valign="middle">
@@ -200,6 +200,7 @@ const trongDN = {
 ## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 From: 19 August 2026 - To: 26 August 2026
 
@@ -214,6 +215,7 @@ JavaScript    27 mins       ░░░░░░░░░░░░░░░░░�
 Bash          13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    0.63 %
 Image (png)   11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    0.54 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
