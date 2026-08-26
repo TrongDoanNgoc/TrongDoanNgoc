@@ -2,7 +2,7 @@
 
 <img src="assets/header.png" width="100%" alt="Doan Ngoc Trong — Frontend Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Doan+Ngoc+Trong;Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+HomeMind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Doan+Ngoc+Trong;Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+Private+Nest)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -24,7 +24,7 @@
 
 Frontend developer with **4 years** in ReactJS and React Native. Currently shipping **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** at **HD Securities**.
 
-Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([HomeMind](https://apps.apple.com/app/id6779894095)).
+Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([Private Nest](https://apps.apple.com/app/id6779894095)).
 
 I use AI (Cursor, MCP, Figma) to ship faster — still review, still keep quality.
 
@@ -95,10 +95,10 @@ const trongDN = {
       <p>EMR for doctors & staff: exam, diagnosis, prescription, lab/imaging orders, treatment tracking.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/apps/homemind.png" width="64" height="64" alt="HomeMind" />
-      <h3>HomeMind</h3>
+      <img src="assets/apps/private-nest.png" width="64" height="64" alt="Private Nest" />
+      <h3>Private Nest</h3>
       <p><b>Indie product · Owner</b></p>
-      <p>Lifestyle app: home zones, wardrobe, AI outfits, family memories & Crush space. Live on stores (v1.0.8).</p>
+      <p>Couple-first lifestyle: Crush nest, Nuôi em fund, shared home & wardrobe, AI outfits, memories. Live on stores (v1.0.9).</p>
       <table>
         <tr>
           <td valign="middle">
@@ -237,7 +237,7 @@ Image (png)   11 mins       ░░░░░░░░░░░░░░░░░�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trongdoanngocdev01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://portfolio-dnt.vercel.app)
 [![HD Invest](https://img.shields.io/badge/HD_Invest-0D96F6?style=for-the-badge)](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)
-[![HomeMind](https://img.shields.io/badge/HomeMind_App-9063F1?style=for-the-badge)](https://apps.apple.com/app/id6779894095)
+[![Private Nest](https://img.shields.io/badge/Private_Nest_App-9063F1?style=for-the-badge)](https://apps.apple.com/app/id6779894095)
 
 <br/><br/>
 
