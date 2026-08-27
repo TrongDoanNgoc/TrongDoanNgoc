@@ -200,22 +200,20 @@ const trongDN = {
 ## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
-From: 19 August 2026 - To: 26 August 2026
+From: 20 August 2026 - To: 27 August 2026
 
-Total Time: 34 hrs 53 mins
+Total Time: 34 hrs 26 mins
 
-TypeScript    27 hrs 7 mins ███████████████████░░░░░   77.73 %
-JSON          3 hrs 37 mins ██░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Text          1 hrs 15 mins █░░░░░░░░░░░░░░░░░░░░░░░    3.62 %
-Other         48 mins       █░░░░░░░░░░░░░░░░░░░░░░░    2.30 %
-Markdown      36 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.77 %
-JavaScript    27 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.30 %
-Bash          13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    0.63 %
-Image (png)   11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    0.54 %
+TypeScript   26 hrs 47 mins ███████████████████░░░░░   77.76 %
+JSON         3 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░░░░    9.58 %
+Text         1 hrs 10 mins  █░░░░░░░░░░░░░░░░░░░░░░░    3.43 %
+Markdown     48 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.34 %
+Other        45 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.19 %
+JavaScript   22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.08 %
+Groovy       21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.06 %
+Bash         13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.63 %
 ```
-
 <!--END_SECTION:waka-->
 
 ---
