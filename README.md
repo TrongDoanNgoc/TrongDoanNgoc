@@ -201,18 +201,18 @@ const trongDN = {
 
 <!--START_SECTION:waka-->
 ```text
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-Total Time: 28 hrs 9 mins
+Total Time: 23 hrs 54 mins
 
-TypeScript   20 hrs 47 mins ██████████████████░░░░░░   73.81 %
-JSON         3 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Text         1 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░    3.82 %
-Other        39 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.31 %
-Markdown     37 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.23 %
-Groovy       21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.29 %
-Bash         19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.16 %
-JavaScript   15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.90 %
+TypeScript   18 hrs 18 mins ██████████████████░░░░░░   76.57 %
+JSON         2 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░░░░    9.98 %
+Markdown     37 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.62 %
+Text         34 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.44 %
+Other        27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.90 %
+Groovy       21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.50 %
+Bash         18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.32 %
+HTML         13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.93 %
 ```
 <!--END_SECTION:waka-->
 
