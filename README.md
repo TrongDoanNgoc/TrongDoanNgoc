@@ -201,18 +201,18 @@ const trongDN = {
 
 <!--START_SECTION:waka-->
 ```text
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-Total Time: 15 hrs 47 mins
+Total Time: 11 hrs 26 mins
 
-TypeScript    12 hrs 54 mins ████████████████████░░░░   81.77 %
-JSON          1 hrs 1 mins   ██░░░░░░░░░░░░░░░░░░░░░░    6.48 %
-Markdown      27 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.89 %
-HTML          13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.41 %
-Bash          12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.31 %
-Other         11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.22 %
-Text          10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.06 %
-Image (png)   10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.06 %
+TypeScript    8 hrs 59 mins ███████████████████░░░░░   78.58 %
+JSON          55 mins       ██░░░░░░░░░░░░░░░░░░░░░░    8.04 %
+Markdown      16 mins       █░░░░░░░░░░░░░░░░░░░░░░░    2.37 %
+HTML          13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.95 %
+Bash          12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.81 %
+Other         10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.54 %
+Image (png)   10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.46 %
+Text          9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.36 %
 ```
 <!--END_SECTION:waka-->
 
