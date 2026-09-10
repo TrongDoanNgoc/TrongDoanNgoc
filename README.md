@@ -201,18 +201,18 @@ const trongDN = {
 
 <!--START_SECTION:waka-->
 ```text
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 29 hrs 49 mins
+Total Time: 31 hrs 32 mins
 
-Dart         11 hrs 56 mins ██████████░░░░░░░░░░░░░░   40.03 %
-TypeScript   8 hrs 46 mins  ███████░░░░░░░░░░░░░░░░░   29.41 %
-Other        2 hrs 56 mins  ██░░░░░░░░░░░░░░░░░░░░░░    9.86 %
-JSON         1 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░    6.58 %
-Markdown     1 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░░░░    5.91 %
-Bash         50 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.83 %
-YAML         26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.50 %
-HTML         18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.04 %
+Dart         15 hrs 58 mins ████████████░░░░░░░░░░░░   50.67 %
+TypeScript   6 hrs 26 mins  █████░░░░░░░░░░░░░░░░░░░   20.40 %
+Other        3 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Markdown     1 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░    5.34 %
+JSON         1 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░    4.33 %
+Bash         1 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░    3.32 %
+YAML         30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.64 %
+HTML         14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    0.77 %
 ```
 <!--END_SECTION:waka-->
 
