@@ -201,18 +201,18 @@ const trongDN = {
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 September 2026 - To: 20 September 2026
+From: 14 September 2026 - To: 21 September 2026
 
-Total Time: 33 hrs 46 mins
+Total Time: 25 hrs 27 mins
 
-Dart         15 hrs 39 mins ███████████░░░░░░░░░░░░░   46.37 %
-TypeScript   8 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░   25.27 %
-JSON         2 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░░░░    8.60 %
-Markdown     1 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░    5.16 %
-Text         1 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░    4.79 %
-Other        1 hrs 17 mins  █░░░░░░░░░░░░░░░░░░░░░░░    3.83 %
-CocoaPods    24 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.21 %
-JavaScript   22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.09 %
+Dart         9 hrs 17 mins █████████░░░░░░░░░░░░░░░   36.50 %
+TypeScript   8 hrs 31 mins ████████░░░░░░░░░░░░░░░░   33.51 %
+JSON         2 hrs 40 mins ███░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Text         1 hrs 27 mins █░░░░░░░░░░░░░░░░░░░░░░░    5.74 %
+Other        55 mins       █░░░░░░░░░░░░░░░░░░░░░░░    3.61 %
+Markdown     51 mins       █░░░░░░░░░░░░░░░░░░░░░░░    3.36 %
+CocoaPods    24 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.60 %
+JavaScript   22 mins       ░░░░░░░░░░░░░░░░░░░░░░░░    1.44 %
 ```
 <!--END_SECTION:waka-->
 
