@@ -13,7 +13,7 @@ PROJECTS=[
          kicker='FINTECH · HD SECURITIES',badge='NOW BUILDING',
          text='Trading workflows that connect identity, market data, and execution, from NFC-based eKYC onboarding to orders, portfolio NAV, and investment research.',
          chips=['NFC eKYC','Live markets','Orders','Portfolio NAV','Research'],
-         stack='React Native · TypeScript',platforms='iOS · Android'),
+         stack='Flutter · Dart',platforms='iOS · Android'),
     dict(slug='sanxinha',title='SanXinHa',accent='#f0abfc',visual='ticker',
          kicker='FINTECH · SHINHAN SECURITIES VIETNAM',badge='SHIPPED',
          text='A securities app with realtime KRX market feeds, OCR, NFC, and FaceID identity verification, and an AI chatbot that makes complex workflows approachable.',

@@ -42,7 +42,7 @@ Real products. Real workflows. Shipped to the people who use them.
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/hd-invest-mobile.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/hd-invest.svg" />
     <source media="(max-width: 600px)" srcset="assets/work/hd-invest-mobile.svg" />
-    <img src="assets/work/hd-invest.svg" width="100%" alt="HD Invest, fintech at HD Securities, now building: trading workflows that connect NFC-based eKYC, live markets, orders, portfolio NAV, and investment research. React Native and TypeScript, on iOS and Android." />
+    <img src="assets/work/hd-invest.svg" width="100%" alt="HD Invest, fintech at HD Securities, now building: trading workflows that connect NFC-based eKYC, live markets, orders, portfolio NAV, and investment research. Flutter and Dart, on iOS and Android." />
   </picture>
 </a>
 <p align="right">
@@ -140,7 +140,7 @@ Real products. Real workflows. Shipped to the people who use them.
 
 | Focus | Tools I work with |
 | :--- | :--- |
-| **Mobile** | React Native · Expo · TypeScript |
+| **Mobile** | React Native · Expo · TypeScript · Flutter · Dart |
 | **Web** | React · Next.js · JavaScript · HTML · CSS / SCSS |
 | **UI & design** | Tailwind CSS · Ant Design · MUI · Figma |
 | **State & realtime data** | Zustand · Redux · React Query · Socket.io |
