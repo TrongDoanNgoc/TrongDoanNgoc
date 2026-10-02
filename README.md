@@ -173,6 +173,31 @@ A little lavender, a lot of commits. Cards and contribution art refresh daily th
 </a>
 
 <!--START_SECTION:extensions-->
+
+### A year in lavender / 3D contribution city
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/widgets/lavender-city-static.svg" />
+  <img src="assets/widgets/lavender-city.svg" width="100%" alt="A 3D lavender city built from my GitHub contribution calendar, with contribution and language summaries." />
+</picture>
+
+<sub>Generated with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a>.</sub>
+
+### Insert commit, start game / Galaga
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/github/contributions.svg" />
+  <img src="assets/widgets/galaga.svg" width="100%" alt="A Galaga-style spaceship turns my real GitHub contributions into an animated arcade scene." />
+</picture>
+
+<sub>Contribution replay powered by <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>.</sub>
+
+### The code behind the craft
+
+<img src="assets/widgets/metrics.svg" width="100%" alt="GitHub Metrics: most-used languages and notable public contributions." />
+
+<sub>Public repository language composition, not a measure of expertise. Generated with <a href="https://github.com/lowlighter/metrics">Metrics</a>.</sub>
+
 <!--END_SECTION:extensions-->
 
 <details>
