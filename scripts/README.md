@@ -8,6 +8,13 @@ are also selected by `<picture>` for browsers that do not forward motion prefere
 to embedded SVGs. Regenerate these with `python3 scripts/build-static.py`. The snake switches
 to the static contribution calendar when reduced motion is enabled.
 
+## Selected work cards
+
+`python3 scripts/build-work-cards.py` renders one card per project into `assets/work/`
+(desktop and `-mobile`) and motion-free copies into `assets/static/work/`. Project copy,
+chips, and accent colors live in the `PROJECTS` list; app icons are embedded from
+`assets/work/icons/`. The script fails if a description or chip row would overflow.
+
 ## Lavender palette
 
 `assets/theme.json` supplies the generated GitHub cards. Hand-authored SVG artwork

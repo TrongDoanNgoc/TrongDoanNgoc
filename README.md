@@ -37,41 +37,53 @@ I care about the whole path to production: understandable architecture, responsi
 
 Real products. Real workflows. Shipped to the people who use them.
 
-### <img src="assets/apps/hd-invest.png" width="36" height="36" alt="" /> &nbsp; HD Invest
+<a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/hd-invest-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/hd-invest.svg" />
+    <source media="(max-width: 600px)" srcset="assets/work/hd-invest-mobile.svg" />
+    <img src="assets/work/hd-invest.svg" width="100%" alt="HD Invest, fintech at HD Securities, now building: trading workflows that connect NFC-based eKYC, live markets, orders, portfolio NAV, and investment research. React Native and TypeScript, on iOS and Android." />
+  </picture>
+</a>
+<p align="right">
+  <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.svg" height="34" alt="HD Invest on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&amp;hl=vi"><img src="assets/stores/google-play.svg" height="34" alt="HD Invest on Google Play" /></a>
+</p>
 
-**FINTECH · HD SECURITIES · MOBILE**
+<a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/sanxinha-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/sanxinha.svg" />
+    <source media="(max-width: 600px)" srcset="assets/work/sanxinha-mobile.svg" />
+    <img src="assets/work/sanxinha.svg" width="100%" alt="SanXinHa, fintech at Shinhan Securities Vietnam: realtime KRX market feeds, OCR, NFC, and FaceID identity verification, an AI chatbot, and FireAnt news. Built with Zustand, React Query, and Socket.io." />
+  </picture>
+</a>
+<p align="right">
+  <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.svg" height="34" alt="SanXinHa on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.svg" height="34" alt="SanXinHa on Google Play" /></a>
+</p>
 
-Trading workflows that connect identity, market data, and execution. My work covers **NFC-based eKYC, live markets, orders, portfolio NAV, and investment research**.
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/vinmec-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/vinmec.svg" />
+  <source media="(max-width: 600px)" srcset="assets/work/vinmec-mobile.svg" />
+  <img src="assets/work/vinmec.svg" width="100%" alt="Vinmec EMR, healthcare at VinSmart Future / Vingroup: electronic medical records for doctors and clinical staff covering examination, diagnosis, prescriptions, lab and imaging orders, and treatment tracking." />
+</picture>
 
-[App Store ↗](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi)
+<br /><br />
 
----
-
-### <img src="assets/apps/sanxinha.png" width="36" height="36" alt="" /> &nbsp; SanXinHa
-
-**FINTECH · SHINHAN SECURITIES VIETNAM · MOBILE**
-
-A securities app with **realtime KRX market feeds**, OCR/NFC/FaceID identity verification, and an AI chatbot. Worked with **Zustand, React Query, socket-driven data, and FireAnt news** to bring complex financial workflows into the interface.
-
-[App Store ↗](https://apps.apple.com/vn/app/san-xin-ha/id1645490037) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vn.ssv.sanxinha)
-
----
-
-### <img src="assets/companies/vinmec.png" width="36" height="36" alt="" /> &nbsp; Vinmec EMR
-
-**HEALTHCARE · VINSMART FUTURE / VINGROUP**
-
-Electronic medical records for doctors and clinical staff: **examination, diagnosis, prescriptions, lab and imaging orders, and treatment tracking**. Detailed interfaces supporting connected clinical workflows.
-
----
-
-### <img src="assets/apps/private-nest.png" width="36" height="36" alt="" /> &nbsp; Private Nest
-
-**INDIE PRODUCT · CREATOR & OWNER · MOBILE**
-
-A personal take on building for everyday life. A couple-focused app for **shared funds, wardrobes, AI outfit ideas, and memories** — taking a product from an idea to store releases.
-
-[App Store ↗](https://apps.apple.com/app/id6779894095) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=app.homemind)
+<a href="https://apps.apple.com/app/id6779894095">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/private-nest-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/private-nest.svg" />
+    <source media="(max-width: 600px)" srcset="assets/work/private-nest-mobile.svg" />
+    <img src="assets/work/private-nest.svg" width="100%" alt="Private Nest, my indie product as creator and owner: a couple-focused app for shared funds, wardrobes, AI outfit ideas, and memories, taken from an idea to App Store and Google Play releases." />
+  </picture>
+</a>
+<p align="right">
+  <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" height="34" alt="Private Nest on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.svg" height="34" alt="Private Nest on Google Play" /></a>
+</p>
 
 <details>
 <summary><b>More shipped work — education & crypto</b></summary>
