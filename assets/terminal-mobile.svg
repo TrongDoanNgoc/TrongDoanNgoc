@@ -7,7 +7,7 @@
 <text x="30" y="83" fill="#c4b5fd" font-size="16">❯</text>
 <g class="type"><text x="56" y="83" fill="#f5f0ff" font-size="16">npx create-something-people-love</text></g>
 <text x="30" y="124" fill="#89ddff" font-size="16">✓ <tspan fill="#ddceed">Design with intention.</tspan></text>
-<text x="30" y="157" fill="#c4b5fd" font-size="16">✓ <tspan fill="#ddceed">Build with React Native + React + TypeScript.</tspan></text>
+<text x="30" y="157" fill="#c4b5fd" font-size="16">✓ <tspan fill="#ddceed">Build with React Native, Flutter + React.</tspan></text>
 <text x="30" y="190" fill="#f0abfc" font-size="16">✓ <tspan fill="#ddceed">Refine the details. Ship. Learn. Repeat.</tspan></text>
 <text x="30" y="225" fill="#c4b5fd" font-size="16">❯ <tspan class="cursor">▍</tspan></text>
 </svg>

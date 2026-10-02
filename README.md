@@ -2,7 +2,7 @@
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/header-mobile.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/header.svg" />
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
-  <img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Mobile. Web. Made to matter. React Native, React and TypeScript engineer in Ho Chi Minh City." />
+  <img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Mobile. Web. Made to matter. React Native, Flutter, React and TypeScript engineer in Ho Chi Minh City." />
 </picture>
 
 <p align="center">
@@ -17,12 +17,12 @@
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/terminal-mobile.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/terminal.svg" />
   <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg" />
-  <img src="assets/terminal.svg" width="100%" alt="My engineering loop: design with intention, build with React Native, React and TypeScript, refine and ship." />
+  <img src="assets/terminal.svg" width="100%" alt="My engineering loop: design with intention, build with React Native, Flutter, React and TypeScript, refine and ship." />
 </picture>
 
 ## Good products earn trust. Great interfaces keep it.
 
-I'm **Trong**, a Mobile & Web Engineer working across **React Native, React, and TypeScript**. I build interfaces for products where the details matter: placing a trade, navigating a patient record, or sharing a private moment.
+I'm **Trong**, a Mobile & Web Engineer working across **React Native, Flutter, React, and TypeScript**. I build interfaces for products where the details matter: placing a trade, navigating a patient record, or sharing a private moment.
 
 Currently building **HD Invest at HD Securities**. My work spans financial services, healthcare, education, and my own indie product, **Private Nest**.
 
@@ -135,7 +135,7 @@ Real products. Real workflows. Shipped to the people who use them.
 ## ❋ 03 / My toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,firebase,supabase,figma,git,github&amp;perline=6&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Firebase, Supabase, Figma, Git, GitHub" width="420" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,nextjs,ts,js,tailwind,redux,nodejs,firebase,supabase,figma,git,github&amp;perline=7&amp;theme=dark" alt="React, Flutter, Dart, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Firebase, Supabase, Figma, Git, GitHub" width="490" />
 </p>
 
 | Focus | Tools I work with |
