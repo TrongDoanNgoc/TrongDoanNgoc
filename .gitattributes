@@ -1,0 +1,2 @@
+# Profile build scripts are tooling, not product work; keep them out of language stats.
+*.py linguist-detectable=false

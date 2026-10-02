@@ -50,11 +50,10 @@ jobs:
           github_user_name: TrongDoanNgoc
           github_token: ${{ github.token }}
           games: galaga
-      - name: Apply lavender palette
+      - name: Collect arcade art
         run: |
           mkdir -p assets/widgets
           cp dist/galaga-contribution-graph-dark.svg assets/widgets/galaga.svg
-          python3 scripts/style-widgets.py
       - uses: actions/upload-artifact@v4
         with:
           name: widget-arcade
@@ -111,6 +110,8 @@ jobs:
           pattern: widget-*
           merge-multiple: true
           path: assets/widgets
+      - name: Apply lavender palette
+        run: python3 scripts/style-widgets.py
       - name: Refresh writing feed when configured
         if: vars.PROFILE_BLOG_FEED != ''
         uses: gautamkrishnar/blog-post-workflow@28b22c9f8c9f4fa4b1c3e210bd5c3aaa00dff596
