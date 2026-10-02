@@ -40,3 +40,35 @@ Shields.io contact badges and skillicons.dev icons are decorative enhancements;
 contact links and the text toolkit remain usable without those services.
 
 Upstream snake generator: https://github.com/Platane/snk (MIT license).
+
+## Profile extensions
+
+`profile-widgets.yml` generates the 3D contribution city, Galaga replay, and
+Lowlighter Metrics in separate read-only jobs, then publishes their artifacts.
+The contribution city has a separately generated static version; Galaga falls
+back to the contribution calendar for reduced motion. The README renderer only
+embeds files that exist. Snake remains available in a collapsible section.
+
+Two personal integrations need account-specific configuration in repository
+**Settings → Secrets and variables → Actions → Variables**:
+
+- `PROFILE_BLOG_FEED`: your RSS/Atom URL (or comma-separated feeds). Blog Post
+  Workflow imports up to four posts into `assets/feeds/posts.md`. The README shows
+  the section only after real posts have been imported.
+- `SPOTIFY_WIDGET_URL`: the HTTPS root URL of your deployed
+  [Spotify Readme](https://github.com/tthn0/Spotify-Readme) instance. The renderer
+  applies a dark theme, lavender equalizer, and spinning-disc option. A Spotify
+  profile URL is not a widget URL. Live playback needs your Spotify authorization
+  and the upstream setup currently requires Premium. Keep OAuth credentials in
+  your hosting provider's secrets, never in this repository or its public URL.
+
+After configuring either variable, run **Profile extensions → Run workflow**.
+Unconfigured personal sections remain absent instead of showing someone else's
+content or a broken widget. The widget's `spin=false` setting disables the disc
+for reduced motion; the upstream equalizer may still animate.
+
+Upstreams: [3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib),
+[Arcade Contribution Graph](https://github.com/abozanona/pacman-contribution-graph),
+[Metrics](https://github.com/lowlighter/metrics),
+[Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow), and
+[Spotify Readme](https://github.com/tthn0/Spotify-Readme).

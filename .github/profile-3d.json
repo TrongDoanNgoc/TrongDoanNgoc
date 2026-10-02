@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "lavender-city.svg",
+    "backgroundColor": "#171122",
+    "foregroundColor": "#f5f0ff",
+    "strongColor": "#c4b5fd",
+    "weakColor": "#a99bbf",
+    "radarColor": "#f0abfc",
+    "growingAnimation": true,
+    "contribColors": ["#271d39", "#513a75", "#815bb3", "#ac87df", "#d8b4fe"]
+  },
+  {
+    "type": "normal",
+    "fileName": "lavender-city-static.svg",
+    "backgroundColor": "#171122",
+    "foregroundColor": "#f5f0ff",
+    "strongColor": "#c4b5fd",
+    "weakColor": "#a99bbf",
+    "radarColor": "#f0abfc",
+    "growingAnimation": false,
+    "contribColors": ["#271d39", "#513a75", "#815bb3", "#ac87df", "#d8b4fe"]
+  }
+]

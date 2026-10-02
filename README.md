@@ -172,12 +172,18 @@ A little lavender, a lot of commits. Cards and contribution art refresh daily th
   </picture>
 </a>
 
-### Feed the snake 🐍
+<!--START_SECTION:extensions-->
+<!--END_SECTION:extensions-->
+
+<details>
+<summary><b>More arcade / the original lavender snake 🐍</b></summary>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/github/contributions.svg" />
   <img src="assets/github/snake.svg" width="100%" alt="A pink snake travels through my real GitHub contribution calendar, eating lavender contribution cells." />
 </picture>
+
+</details>
 
 <details>
 <summary><b>✦ See the original contribution garden</b></summary>
