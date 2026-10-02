@@ -1,203 +1,128 @@
-<div align="center">
-
-<img src="assets/header.png" width="100%" alt="Doan Ngoc Trong — Frontend Developer" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Doan+Ngoc+Trong;Now+at+HD+Securities+%C2%B7+HD+Invest;4+years+shipping+React+%26+React+Native;Fintech+%7C+Healthcare+%7C+EdTech+%7C+Crypto;HD+Invest+%C2%B7+SanXinHa+%C2%B7+Vinmec+EMR+%C2%B7+Private+Nest)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Experience-4%20years-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh-DA251D?style=for-the-badge" />
-</p>
-
-<p>
-  <a href="mailto:trong.doanngoc2023@gmail.com"><img src="https://img.shields.io/badge/Email-trong.doanngoc2023%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/trongdoanngocdev01"><img src="https://img.shields.io/badge/LinkedIn-trongdoanngocdev01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-dnt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-portfolio--dnt-FF5722?style=flat-square" /></a>
-</p>
-
-</div>
-
----
-
-## About Me
-
-Frontend developer with **4 years** in ReactJS and React Native. Currently shipping **[HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)** at **HD Securities**.
-
-Fintech (HD Invest, SanXinHa, Nami) · Healthcare (Vinmec EMR) · EdTech (BiEdu / Bikids) · Indie ([Private Nest](https://apps.apple.com/app/id6779894095)).
-
-I use AI (Cursor, MCP, Figma) to ship faster — still review, still keep quality.
-
-```ts
-const trongDN = {
-  now: "HD Securities · HD Invest",
-  stack: ["React Native", "React", "TypeScript", "Expo"],
-  ship: "production apps on App Store & Play Store",
-};
-```
-
----
-
-## Experience
-
-|                                                                               | Period                  | Company                        | What I shipped                                                                                                                                                                               |
-| ----------------------------------------------------------------------------- | ----------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="assets/companies/hds.png" width="32" height="32" alt="HDS" />       | **Jun 2026 – Present**  | **HD Securities (HDS)**        | [HD Invest](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) · [Play Store](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi) — eKYC NFC, orders, market, research |
-| <img src="assets/companies/vinmec.png" width="32" height="32" alt="Vinmec" /> | **Nov 2025 – Jun 2026** | **VinSmart Future · Vingroup** | Vinmec EMR — digital patient records & clinical workflows                                                                                                                                    |
-| <img src="assets/companies/shinhan.png" width="72" alt="Shinhan" />           | **Feb 2025 – Nov 2025** | **Shinhan Securities Vietnam** | SanXinHa — realtime market, eKYC, AI chatbot                                                                                                                                                 |
-| <img src="assets/companies/bitech.png" width="32" height="32" alt="Bitech" /> | **Sep 2023 – Nov 2024** | **Bitech**                     | BiEdu & Bikids — education web + mobile                                                                                                                                                      |
-| <img src="assets/apps/nami.png" width="32" height="32" alt="Nami" />          | **Oct 2022 – Feb 2023** | **Nami Exchange**              | Crypto trading app — UI rebuild, performance                                                                                                                                                 |
-
----
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/apps/hd-invest.png" width="64" height="64" alt="HD Invest" />
-      <h3>HD Invest</h3>
-      <p><img src="assets/companies/hds.png" width="18" height="18" alt="" /> <b>HD Securities · Jun 2026 – Present</b></p>
-      <p>Trading app: 3-minute eKYC via NFC CCCD, live market, order book, loan/rights, NAV, FinAlpha research.</p>
-      <table>
-        <tr>
-          <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/apps/sanxinha.png" width="64" height="64" alt="SanXinHa" />
-      <h3>SanXinHa</h3>
-      <p><img src="assets/companies/shinhan.png" height="16" alt="" /> <b>Shinhan Securities · Feb 2025 – Nov 2025</b></p>
-      <p>Realtime KRX socket, Zustand + React Query, OCR/NFC/FaceID eKYC, AI chatbot + FireAnt news.</p>
-      <table>
-        <tr>
-          <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/san-xin-ha/id1645490037"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=vn.ssv.sanxinha"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/companies/vinmec.png" height="40" alt="Vinmec" />
-      <h3>Vinmec EMR</h3>
-      <p><b>VinSmart Future · Vingroup · Nov 2025 – Jun 2026</b></p>
-      <p>EMR for doctors & staff: exam, diagnosis, prescription, lab/imaging orders, treatment tracking.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/apps/private-nest.png" width="64" height="64" alt="Private Nest" />
-      <h3>Private Nest</h3>
-      <p><b>Indie product · Owner</b></p>
-      <p>Couple-first lifestyle: Crush nest, fund, wardrobe, AI outfits, memories. Live on stores</p>
-      <table>
-        <tr>
-          <td valign="middle">
-            <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/apps/biedu.png" width="56" height="56" alt="BiEdu" />
-      <img src="assets/apps/bikids.png" width="56" height="56" alt="Bikids" />
-      <h3>BiEdu & Bikids</h3>
-      <p><img src="assets/companies/bitech.png" width="18" height="18" alt="" /> <b>Bitech · Sep 2023 – Nov 2024</b></p>
-      <p>Education platforms (web + mobile). Lazy loading, code splitting, caching. Reusable UI + docs.</p>
-      <table>
-        <tr>
-          <td valign="middle">
-            <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://bi-edu.bitechco.com"><img src="https://img.shields.io/badge/BiEdu-2563EB?style=for-the-badge" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://bikids.edu.vn"><img src="https://img.shields.io/badge/Bikids-F59E0B?style=for-the-badge" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/apps/nami.png" width="64" height="64" alt="Nami Exchange" />
-      <h3>Nami Exchange</h3>
-      <p><b>Nami Exchange · Oct 2022 – Feb 2023</b></p>
-      <p>Rebuilt trading UI, improved performance, shipped defect fixes on a multi-platform crypto exchange.</p>
-      <table>
-        <tr>
-          <td valign="middle">
-            <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.png" alt="Download on the App Store" width="140" height="40" /></a>
-          </td>
-          <td valign="middle">
-            <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.png" alt="Get it on Google Play" width="140" height="40" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
+  <img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Mobile. Web. Made to matter. React Native, React and TypeScript engineer in Ho Chi Minh City." />
+</picture>
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=react,reactnative,expo,typescript,javascript,nextjs,tailwindcss,antdesign,mui,redux,firebase,supabase,nodejs,mongodb,mysql,socketio,git,figma,jira&perline=10" />
+  <a href="https://portfolio-dnt.vercel.app"><b>Explore my portfolio ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/trongdoanngocdev01">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:trong.doanngoc2023@gmail.com">Let's talk</a>
 </p>
 
-**Frontend** — ReactJS · React Native · Next.js · Expo  
-**Language** — TypeScript · JavaScript  
-**UI** — HTML5 · CSS/SCSS · Tailwind · Ant Design · MUI · Figma  
-**State / Data** — Redux · Zustand · React Query · Firebase · Supabase · Socket.io  
-**Backend / DB** — Node.js · MySQL · MongoDB  
-**Process** — Git · Jira · Agile/Scrum  
-**AI tools** — Cursor (Rules, Context7, MCP with Figma / Claude / Slack)
+## Good products earn trust. Great interfaces keep it.
+
+I'm **Trong**, a Mobile & Web Engineer working across **React Native, React, and TypeScript**. I build interfaces for products where the details matter: placing a trade, navigating a patient record, or sharing a private moment.
+
+Currently building **HD Invest at HD Securities**. My work spans financial services, healthcare, education, and my own indie product, **Private Nest**.
+
+I care about the whole path to production: understandable architecture, responsive interactions, dependable data flows, and the small details that make software feel considered.
+
+<br />
+
+## 01 / Selected work
+
+Real products. Real workflows. Shipped to the people who use them.
+
+### <img src="assets/apps/hd-invest.png" width="36" height="36" alt="" /> &nbsp; HD Invest
+
+**FINTECH · HD SECURITIES · MOBILE**
+
+Trading workflows that connect identity, market data, and execution. My work covers **NFC-based eKYC, live markets, orders, portfolio NAV, and investment research**.
+
+[App Store ↗](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vn.hd.invest&hl=vi)
 
 ---
 
-## GitHub Stats
+### <img src="assets/apps/sanxinha.png" width="36" height="36" alt="" /> &nbsp; SanXinHa
 
-<div align="center">
+**FINTECH · SHINHAN SECURITIES VIETNAM · MOBILE**
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=TrongDoanNgoc&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=TrongDoanNgoc&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8&hide=html,css" height="165" />
+A securities app with **realtime KRX market feeds**, OCR/NFC/FaceID identity verification, and an AI chatbot. Worked with **Zustand, React Query, socket-driven data, and FireAnt news** to bring complex financial workflows into the interface.
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TrongDoanNgoc&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" width="62%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrongDoanNgoc&theme=react" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrongDoanNgoc&theme=react" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrongDoanNgoc&theme=react" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TrongDoanNgoc&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6B6B&area=true&area_color=61DAFB" width="100%" />
-
-</div>
+[App Store ↗](https://apps.apple.com/vn/app/san-xin-ha/id1645490037) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vn.ssv.sanxinha)
 
 ---
 
-## Weekly Coding Stats
+### <img src="assets/companies/vinmec.png" width="36" height="36" alt="" /> &nbsp; Vinmec EMR
+
+**HEALTHCARE · VINSMART FUTURE / VINGROUP**
+
+Electronic medical records for doctors and clinical staff: **examination, diagnosis, prescriptions, lab and imaging orders, and treatment tracking**. Detailed interfaces supporting connected clinical workflows.
+
+---
+
+### <img src="assets/apps/private-nest.png" width="36" height="36" alt="" /> &nbsp; Private Nest
+
+**INDIE PRODUCT · CREATOR & OWNER · MOBILE**
+
+A personal take on building for everyday life. A couple-focused app for **shared funds, wardrobes, AI outfit ideas, and memories** — taking a product from an idea to store releases.
+
+[App Store ↗](https://apps.apple.com/app/id6779894095) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=app.homemind)
+
+<details>
+<summary><b>More shipped work — education & crypto</b></summary>
+
+### BiEdu & Bikids / Bitech
+
+Education across web and mobile. Worked on **lazy loading, code splitting, caching, reusable UI, and documentation**.
+
+[BiEdu on App Store ↗](https://apps.apple.com/vn/app/biedu/id6450730295) · [BiEdu web ↗](https://bi-edu.bitechco.com) · [Bikids web ↗](https://bikids.edu.vn)
+
+### Nami Exchange
+
+Crypto trading interfaces: **UI rebuilds, performance improvements, and defect fixes** across a multiplatform exchange.
+
+[App Store ↗](https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334) · [Google Play ↗](https://play.google.com/store/apps/details?id=com.namicorp.exchange)
+
+</details>
+
+<br />
+
+## 02 / How I approach the work
+
+**Build for the interaction.** Loading, empty, error, and success states are all part of the product. Motion should make an interface easier to understand and satisfying to use.
+
+**Make complexity manageable.** Clear component boundaries, reusable UI, and deliberate state and data flow keep a product easier to extend.
+
+**Treat performance as a feature.** My work has included lazy loading, code splitting, caching, and improving trading interfaces. Fast feedback matters most when the task is complex.
+
+**Own the last mile.** Implementation is one part of shipping. I care about the path from the design to a usable release, and use AI-assisted tooling with human review.
+
+<br />
+
+## 03 / My toolkit
+
+| Focus | Tools I work with |
+| :--- | :--- |
+| **Mobile** | React Native · Expo · TypeScript |
+| **Web** | React · Next.js · JavaScript · HTML · CSS / SCSS |
+| **UI & design** | Tailwind CSS · Ant Design · MUI · Figma |
+| **State & realtime data** | Zustand · Redux · React Query · Socket.io |
+| **Services & storage** | Firebase · Supabase · Node.js · MySQL · MongoDB |
+| **Delivery** | Git · Jira · Agile / Scrum · Cursor · MCP |
+
+<br />
+
+## 04 / The journey
+
+| When | Where | Product focus |
+| :--- | :--- | :--- |
+| **Jun 2026 — Present** | **HD Securities** | HD Invest · mobile investing |
+| Nov 2025 — Jun 2026 | VinSmart Future · Vingroup | Vinmec · clinical workflows |
+| Feb 2025 — Nov 2025 | Shinhan Securities Vietnam | SanXinHa · securities trading |
+| Sep 2023 — Nov 2024 | Bitech | BiEdu & Bikids · education |
+| Oct 2022 — Feb 2023 | Nami Exchange | Crypto trading interfaces |
+
+<br />
+
+## 05 / Beyond the day job
+
+**[Private Nest](https://apps.apple.com/app/id6779894095)** is where I practice independent product ownership. You can also explore [nodebase](https://github.com/TrongDoanNgoc/nodebase) and the source for [my portfolio](https://github.com/TrongDoanNgoc/portfolio-dnt).
+
+<details>
+<summary><b>Under the hood / coding activity</b></summary>
+
+Activity for the date range below, updated by the repository's WakaTime workflow.
 
 <!--START_SECTION:waka-->
 ```text
@@ -216,33 +141,18 @@ SQL          11 mins       ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
+</details>
 
-## Side Projects
+<br />
 
-<div align="center">
+<a href="mailto:trong.doanngoc2023@gmail.com">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/footer-mobile.svg" />
+    <img src="assets/footer.svg" width="100%" alt="Let's make it real. Get in touch with Trong to talk about your next product." />
+  </picture>
+</a>
 
-[![nodebase](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=TrongDoanNgoc&repo=nodebase&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB)](https://github.com/TrongDoanNgoc/nodebase)
-[![portfolio-dnt](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=TrongDoanNgoc&repo=portfolio-dnt&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB)](https://github.com/TrongDoanNgoc/portfolio-dnt)
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trong.doanngoc2023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trongdoanngocdev01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://portfolio-dnt.vercel.app)
-[![HD Invest](https://img.shields.io/badge/HD_Invest-0D96F6?style=for-the-badge)](https://apps.apple.com/vn/app/hd-invest/id6739621627?l=vi)
-[![Private Nest](https://img.shields.io/badge/Private_Nest_App-9063F1?style=for-the-badge)](https://apps.apple.com/app/id6779894095)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TrongDoanNgoc&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<img src="assets/footer.png" width="100%" alt="" />
+<p align="center">
+  <a href="mailto:trong.doanngoc2023@gmail.com">trong.doanngoc2023@gmail.com</a><br />
+  <sub>Based in Ho Chi Minh City, Vietnam · Building for people, wherever they are.</sub>
+</p>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-<title id="title">Doan Ngoc Trong — Mobile. Web. Made to matter.</title><desc id="desc">Custom animated profile artwork. Motion is disabled when reduced motion is preferred.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760" role="img" aria-labelledby="title desc">
+<title id="title">Doan Ngoc Trong — Mobile and Web Engineer</title><desc id="desc">Custom animated profile artwork. Motion is disabled when reduced motion is preferred.</desc>
 <style>
 text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Menlo,Consolas,monospace}
 .float{animation:float 7s ease-in-out infinite}.float-slow{animation:float 9s ease-in-out infinite reverse}
@@ -15,26 +15,16 @@ text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Menlo,Consolas,mo
 <radialGradient id="halo"><stop stop-color="#baff59" stop-opacity=".13"/><stop offset="1" stop-color="#baff59" stop-opacity="0"/></radialGradient>
 <linearGradient id="line"><stop stop-color="#baff59"/><stop offset="1" stop-color="#58dbc4"/></linearGradient>
 </defs>
-<rect width="1200" height="560" rx="24" fill="#0c1210"/>
-<rect x="660" y="1" width="539" height="558" fill="url(#grid)"/>
-<path d="M48 84H1152" stroke="#29362b"/>
-<text x="48" y="53" class="mono" font-size="16" fill="#baff59" font-weight="bold">DNT<tspan fill="#eaf0e3">.</tspan></text>
-<text x="105" y="52" class="mono" font-size="11" fill="#9eac99" letter-spacing="2">ENGINEER / BUILDER</text>
-<circle cx="934" cy="47" r="4" fill="#baff59" class="pulse"/><text x="949" y="51" class="mono" font-size="11" fill="#c3cdbd">HO CHI MINH CITY, VN</text>
-<text x="48" y="137" class="mono" font-size="12" fill="#baff59" letter-spacing="2">DOAN NGOC TRONG</text>
-<text x="44" y="220" font-size="76" font-weight="800" fill="#eef3e7" letter-spacing="-4">Mobile. Web.</text>
-<text x="44" y="303" font-size="76" font-weight="800" fill="#baff59" letter-spacing="-4">Made to matter.</text>
-<text x="48" y="355" font-size="18" fill="#b5c1ae">Product-minded engineering. Thoughtful interfaces.</text>
-<text x="48" y="385" font-size="18" fill="#b5c1ae">From the first interaction to the production release.</text>
-<rect x="48" y="425" width="137" height="32" rx="16" fill="#1d2a1b" stroke="#3e5233"/>
-<text x="116" y="446" text-anchor="middle" class="mono" font-size="11" fill="#d4e4c7">REACT NATIVE</text>
-<rect x="195" y="425" width="87" height="32" rx="16" fill="#1d2a1b" stroke="#3e5233"/>
-<text x="238" y="446" text-anchor="middle" class="mono" font-size="11" fill="#d4e4c7">REACT</text>
-<rect x="292" y="425" width="124" height="32" rx="16" fill="#1d2a1b" stroke="#3e5233"/>
-<text x="354" y="446" text-anchor="middle" class="mono" font-size="11" fill="#d4e4c7">TYPESCRIPT</text>
-<path d="M48 502H1152" stroke="#29362b"/>
-<text x="48" y="532" class="mono" font-size="10" fill="#9eac99" letter-spacing="1">FINTECH / HEALTHCARE / EDTECH / INDIE</text>
-<text x="1152" y="532" text-anchor="end" class="mono" font-size="10" fill="#baff59" letter-spacing="1">CRAFT MEETS PRODUCTION ↗</text><circle cx="900" cy="283" r="270" fill="url(#halo)"/>
+<rect width="600" height="760" rx="24" fill="#0c1210"/>
+<text x="32" y="49" class="mono" font-size="20" font-weight="bold" fill="#baff59">DNT.</text>
+<text x="568" y="47" text-anchor="end" class="mono" font-size="13" fill="#a7b69f">ENGINEER / BUILDER</text>
+<path d="M32 72H568" stroke="#29362b"/>
+<text x="32" y="118" class="mono" font-size="15" fill="#baff59" letter-spacing="2">DOAN NGOC TRONG</text>
+<text x="29" y="186" font-size="64" font-weight="800" fill="#eef3e7" letter-spacing="-3">Mobile. Web.</text>
+<text x="29" y="253" font-size="62" font-weight="800" fill="#baff59" letter-spacing="-3">Made to matter.</text>
+<text x="32" y="295" font-size="20" fill="#b5c1ae">Product-minded engineering.</text>
+<text x="32" y="325" font-size="20" fill="#b5c1ae">From first interaction to production.</text>
+<g transform="translate(-550 208) scale(.95)"><circle cx="900" cy="283" r="270" fill="url(#halo)"/>
 <circle cx="900" cy="283" r="205" fill="none" stroke="#2c3a30"/>
 <circle cx="900" cy="283" r="166" fill="none" stroke="#26352c" stroke-dasharray="2 10"/>
 <g class="orbit"><circle cx="1105" cy="283" r="5" fill="#baff59"/><circle cx="695" cy="283" r="3" fill="#58dbc4"/></g>
@@ -59,5 +49,7 @@ text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Menlo,Consolas,mo
 <path d="M805 443H823M817 437L823 443L817 449" fill="none" stroke="#15200f" stroke-width="2"/>
 </g>
 <g transform="translate(954 405)"><rect width="154" height="42" rx="21" fill="#19251a" stroke="#425139"/>
-<circle cx="21" cy="21" r="4" fill="#baff59" class="pulse"/><text x="35" y="25" class="mono" font-size="10" fill="#d5e3c9">BUILT TO SHIP</text></g>
+<circle cx="21" cy="21" r="4" fill="#baff59" class="pulse"/><text x="35" y="25" class="mono" font-size="10" fill="#d5e3c9">BUILT TO SHIP</text></g></g>
+<path d="M32 695H568" stroke="#29362b"/>
+<text x="32" y="728" class="mono" font-size="13" fill="#baff59">REACT NATIVE / REACT / TYPESCRIPT</text>
 </svg>
