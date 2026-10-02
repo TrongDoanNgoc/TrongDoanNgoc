@@ -28,7 +28,7 @@ jobs:
           persist-credentials: false
       - uses: yoshi389111/github-profile-3d-contrib@9e3f937195cf840d364388973f73e3c4b3753586
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN || github.token }}
           USERNAME: TrongDoanNgoc
           SETTING_JSON: .github/profile-3d.json
       - uses: actions/upload-artifact@v4
