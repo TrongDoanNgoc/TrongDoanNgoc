@@ -58,8 +58,11 @@ Two personal integrations need account-specific configuration in repository
 - `SPOTIFY_WIDGET_URL`: the HTTPS root URL of your deployed
   [Spotify Readme](https://github.com/tthn0/Spotify-Readme) instance. The renderer
   applies a dark theme, lavender equalizer, and spinning-disc option. A Spotify
-  profile URL is not a widget URL. Live playback needs your Spotify authorization
-  and the upstream setup currently requires Premium. Keep OAuth credentials in
+  profile URL is not a widget URL. Upstream now hosts on PythonAnywhere, whose
+  free web apps must be renewed monthly. Since Spotify's February 2026 API changes,
+  the developer dashboard only enables Web API for Premium accounts, so both live
+  playback and pinned tracks (`https://{user}.pythonanywhere.com/{TRACK_ID}`)
+  need a Premium account to create the app. Keep OAuth credentials in
   your hosting provider's secrets, never in this repository or its public URL.
 
 After configuring either variable, run **Profile extensions → Run workflow**.
