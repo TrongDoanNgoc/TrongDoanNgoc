@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="48" viewBox="0 0 168 48">
+  <rect x=".5" y=".5" width="167" height="47" rx="10" fill="#211a32" stroke="#49345f"/>
+  <g transform="translate(14,12)" fill="none" stroke="#ffffff" stroke-width="1.6">
+    <circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4.5" ry="10"/><path d="M2 12h20M4 6.5h16M4 17.5h16"/>
+  </g>
+  <text x="46" y="31" fill="#ffffff" font-size="15" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">BiEdu Web</text>
+</svg>

@@ -9,27 +9,32 @@ ROOT=Path(__file__).resolve().parents[1]
 BG,BORDER,TEXT,MUTED,SOFT='#171122','#49345f','#f5f0ff','#c7bddb','#b8a5d0'
 
 PROJECTS=[
-    dict(slug='hd-invest',index='01',title='HD Invest',accent='#89ddff',visual='chart',
+    dict(slug='hd-invest',title='HD Invest',accent='#89ddff',visual='chart',
          kicker='FINTECH · HD SECURITIES',badge='NOW BUILDING',
          text='Trading workflows that connect identity, market data, and execution, from NFC-based eKYC onboarding to orders, portfolio NAV, and investment research.',
          chips=['NFC eKYC','Live markets','Orders','Portfolio NAV','Research'],
          stack='React Native · TypeScript',platforms='iOS · Android'),
-    dict(slug='sanxinha',index='02',title='SanXinHa',accent='#f0abfc',visual='ticker',
+    dict(slug='sanxinha',title='SanXinHa',accent='#f0abfc',visual='ticker',
          kicker='FINTECH · SHINHAN SECURITIES VIETNAM',badge='SHIPPED',
          text='A securities app with realtime KRX market feeds, OCR, NFC, and FaceID identity verification, and an AI chatbot that makes complex workflows approachable.',
          chips=['Realtime KRX feeds','OCR · NFC · FaceID','AI chatbot','FireAnt news'],
          stack='Zustand · React Query · Socket.io',platforms='iOS · Android'),
-    dict(slug='vinmec',index='03',title='Vinmec EMR',accent='#c4b5fd',visual='pulse',
+    dict(slug='vinmec',title='Vinmec EMR',accent='#c4b5fd',visual='pulse',
          kicker='HEALTHCARE · VINSMART FUTURE / VINGROUP',badge='CLINICAL',
          text='Electronic medical records for doctors and clinical staff: detailed interfaces that keep every step of a patient visit connected, from exam to treatment.',
          chips=['Examination','Diagnosis','Prescriptions','Lab & imaging','Treatment'],
          stack='Connected clinical workflows',platforms='Doctors · Clinical staff'),
-    dict(slug='nami',index='04',title='Nami Exchange',accent='#a5b4fc',visual='depth',
+    dict(slug='biedu',icon2='bikids',title='BiEdu & Bikids',accent='#86efac',visual='rings',
+         kicker='EDTECH · BITECH',badge='WEB + MOBILE',
+         text='Learning products for students and kids across web and mobile, kept fast and maintainable with lazy loading, code splitting, caching, and reusable UI.',
+         chips=['Lazy loading','Code splitting','Caching','Reusable UI','Documentation'],
+         stack='Education platforms · web and mobile',platforms='iOS · Web'),
+    dict(slug='nami',title='Nami Exchange',accent='#a5b4fc',visual='depth',
          kicker='CRYPTO · NAMI EXCHANGE',badge='SHIPPED',
          text='Crypto trading interfaces for a multiplatform exchange: rebuilding UI, improving performance, and fixing defects across the screens traders rely on.',
          chips=['UI rebuild','Performance tuning','Defect fixes','Multiplatform'],
          stack='Crypto trading interfaces',platforms='iOS · Android'),
-    dict(slug='private-nest',index='05',title='Private Nest',accent='#f9a8d4',visual='orbit',
+    dict(slug='private-nest',title='Private Nest',accent='#f9a8d4',visual='orbit',
          kicker='INDIE PRODUCT · CREATOR & OWNER',badge='INDIE',
          text='A couple-focused app for shared funds, wardrobes, AI outfit ideas, and memories, taken from an idea to App Store and Google Play releases.',
          chips=['Shared funds','Wardrobes','AI outfit ideas','Memories'],
@@ -47,6 +52,8 @@ CSS=('text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consol
      '.halo{animation:halo 4s ease-in-out infinite}'
      '.sway{transform-box:fill-box;transform-origin:50% 100%;animation:sway 2.6s ease-in-out infinite alternate}'
      '@keyframes sway{from{transform:scaleY(.82)}to{transform:scaleY(1)}}'
+     '.fill{animation:fill 5s ease-in-out infinite}'
+     '@keyframes fill{0%{stroke-dashoffset:var(--circ,400)}45%,100%{stroke-dashoffset:var(--done)}}'
      '@keyframes draw{0%{stroke-dashoffset:900}55%,100%{stroke-dashoffset:0}}'
      '@keyframes bar{from{transform:scaleY(.35)}to{transform:scaleY(1)}}'
      '@keyframes blink{50%{opacity:.2}}'
@@ -65,6 +72,9 @@ def wrap(text,chars,limit):
     if len(lines)>limit:
         raise ValueError(f'Shorten copy to {limit} lines: {text}')
     return lines
+
+for number,project in enumerate(PROJECTS,1):
+    project['index']=f'{number:02d}'
 
 def icon(slug):
     data=base64.b64encode((ROOT/'assets/work/icons'/f'{slug}.jpg').read_bytes()).decode()
@@ -156,7 +166,17 @@ def depth(x,y,w,h,accent):
             f'<text class="mono" x="{x+w}" y="{y-10}" font-size="11" fill="#f0abfc" text-anchor="end">ASK</text>'
             f'<text class="mono" x="{mid}" y="{y-10}" font-size="11" fill="{SOFT}" text-anchor="middle">BTC/USDT</text>')
 
-VISUALS=dict(chart=chart,ticker=ticker,pulse=pulse,orbit=orbit,depth=depth)
+def rings(x,y,w,h,accent):
+    out=[];r=min(h/2-10,w/8);circ=2*3.14159*r
+    for i,(label,done,color) in enumerate([('LESSON',.82,accent),('QUIZ',.64,'#89ddff'),('REVIEW',.9,'#f0abfc')]):
+        cx=x+w*(i*2+1)/6;cy=y+h/2-6
+        out.append(f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="{r:.1f}" fill="none" stroke="{BORDER}" stroke-width="7"/>'
+                   f'<circle class="fill" style="--circ:{circ:.1f};--done:{circ*(1-done):.1f};animation-delay:-{i*.6:.1f}s" cx="{cx:.1f}" cy="{cy:.1f}" r="{r:.1f}" fill="none" stroke="{color}" stroke-width="7" stroke-linecap="round"'
+                   f' stroke-dasharray="{circ:.1f}" stroke-dashoffset="{circ*(1-done):.1f}" transform="rotate(-90 {cx:.1f} {cy:.1f})"/>'
+                   f'<text class="mono" x="{cx:.1f}" y="{cy+4:.1f}" font-size="10" font-weight="bold" fill="{TEXT}" text-anchor="middle">{label}</text>')
+    return ''.join(out)
+
+VISUALS=dict(chart=chart,ticker=ticker,pulse=pulse,orbit=orbit,depth=depth,rings=rings)
 
 def frame(w,h,p,animated,body):
     a=p['accent']
@@ -173,7 +193,15 @@ def icon_block(p,x,y,s,animated):
     return (f'<circle class="{"halo" if animated else ""}" cx="{x+s/2}" cy="{y+s/2}" r="{s*.78:.0f}" fill="url(#glow)"/>'
             f'<clipPath id="i-{p["slug"]}"><rect x="{x}" y="{y}" width="{s}" height="{s}" rx="{r:.0f}"/></clipPath>'
             f'<image xlink:href="{icon(p["slug"])}" x="{x}" y="{y}" width="{s}" height="{s}" clip-path="url(#i-{p["slug"]})" preserveAspectRatio="xMidYMid slice"/>'
-            f'<rect x="{x-.5}" y="{y-.5}" width="{s+1}" height="{s+1}" rx="{r:.0f}" fill="none" stroke="{a}" stroke-opacity=".6"/>')
+            f'<rect x="{x-.5}" y="{y-.5}" width="{s+1}" height="{s+1}" rx="{r:.0f}" fill="none" stroke="{a}" stroke-opacity=".6"/>'
+            +(companion(p,x+s*.62,y+s*.62,s*.5) if p.get('icon2') else ''))
+
+def companion(p,x,y,s):
+    r=s*.26;slug=p['icon2']
+    return (f'<rect x="{x-3:.1f}" y="{y-3:.1f}" width="{s+6:.1f}" height="{s+6:.1f}" rx="{r+3:.0f}" fill="{BG}"/>'
+            f'<clipPath id="i-{slug}"><rect x="{x:.1f}" y="{y:.1f}" width="{s:.1f}" height="{s:.1f}" rx="{r:.0f}"/></clipPath>'
+            f'<image xlink:href="{icon(slug)}" x="{x:.1f}" y="{y:.1f}" width="{s:.1f}" height="{s:.1f}" clip-path="url(#i-{slug})" preserveAspectRatio="xMidYMid slice"/>'
+            f'<rect x="{x-.5:.1f}" y="{y-.5:.1f}" width="{s+1:.1f}" height="{s+1:.1f}" rx="{r:.0f}" fill="none" stroke="{p["accent"]}" stroke-opacity=".6"/>')
 
 def badge(text,x,y,accent,anchor_end=False):
     w=width(text,11,True,1)+22

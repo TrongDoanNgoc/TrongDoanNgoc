@@ -72,6 +72,20 @@ Real products. Real workflows. Shipped to the people who use them.
 
 <br /><br />
 
+<a href="https://apps.apple.com/vn/app/biedu/id6450730295">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/biedu-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/biedu.svg" />
+    <source media="(max-width: 600px)" srcset="assets/work/biedu-mobile.svg" />
+    <img src="assets/work/biedu.svg" width="100%" alt="BiEdu and Bikids, edtech at Bitech: learning products across web and mobile, kept fast and maintainable with lazy loading, code splitting, caching, reusable UI, and documentation." />
+  </picture>
+</a>
+<p align="right">
+  <a href="https://apps.apple.com/vn/app/biedu/id6450730295"><img src="assets/stores/app-store.svg" height="34" alt="BiEdu on the App Store" /></a>
+  <a href="https://bi-edu.bitechco.com"><img src="assets/stores/web-biedu.svg" height="34" alt="BiEdu on the web" /></a>
+  <a href="https://bikids.edu.vn"><img src="assets/stores/web-bikids.svg" height="34" alt="Bikids on the web" /></a>
+</p>
+
 <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/nami-mobile.svg" />
@@ -97,17 +111,6 @@ Real products. Real workflows. Shipped to the people who use them.
   <a href="https://apps.apple.com/app/id6779894095"><img src="assets/stores/app-store.svg" height="34" alt="Private Nest on the App Store" /></a>
   <a href="https://play.google.com/store/apps/details?id=app.homemind"><img src="assets/stores/google-play.svg" height="34" alt="Private Nest on Google Play" /></a>
 </p>
-
-<details>
-<summary><b>More shipped work — education</b></summary>
-
-### BiEdu & Bikids / Bitech
-
-Education across web and mobile. Worked on **lazy loading, code splitting, caching, reusable UI, and documentation**.
-
-[BiEdu on App Store ↗](https://apps.apple.com/vn/app/biedu/id6450730295) · [BiEdu web ↗](https://bi-edu.bitechco.com) · [Bikids web ↗](https://bikids.edu.vn)
-
-</details>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
