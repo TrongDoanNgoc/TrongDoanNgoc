@@ -72,6 +72,19 @@ Real products. Real workflows. Shipped to the people who use them.
 
 <br /><br />
 
+<a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/nami-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/work/nami.svg" />
+    <source media="(max-width: 600px)" srcset="assets/work/nami-mobile.svg" />
+    <img src="assets/work/nami.svg" width="100%" alt="Nami Exchange, crypto trading: UI rebuilds, performance improvements, and defect fixes across a multiplatform exchange, on iOS and Android." />
+  </picture>
+</a>
+<p align="right">
+  <a href="https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334"><img src="assets/stores/app-store.svg" height="34" alt="Nami Exchange on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.namicorp.exchange"><img src="assets/stores/google-play.svg" height="34" alt="Nami Exchange on Google Play" /></a>
+</p>
+
 <a href="https://apps.apple.com/app/id6779894095">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/work/private-nest-mobile.svg" />
@@ -86,19 +99,13 @@ Real products. Real workflows. Shipped to the people who use them.
 </p>
 
 <details>
-<summary><b>More shipped work — education & crypto</b></summary>
+<summary><b>More shipped work — education</b></summary>
 
 ### BiEdu & Bikids / Bitech
 
 Education across web and mobile. Worked on **lazy loading, code splitting, caching, reusable UI, and documentation**.
 
 [BiEdu on App Store ↗](https://apps.apple.com/vn/app/biedu/id6450730295) · [BiEdu web ↗](https://bi-edu.bitechco.com) · [Bikids web ↗](https://bikids.edu.vn)
-
-### Nami Exchange
-
-Crypto trading interfaces: **UI rebuilds, performance improvements, and defect fixes** across a multiplatform exchange.
-
-[App Store ↗](https://apps.apple.com/app/nami-exchange-buy-btc-crypto/id1480302334) · [Google Play ↗](https://play.google.com/store/apps/details?id=com.namicorp.exchange)
 
 </details>
 

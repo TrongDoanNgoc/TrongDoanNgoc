@@ -24,7 +24,12 @@ PROJECTS=[
          text='Electronic medical records for doctors and clinical staff: detailed interfaces that keep every step of a patient visit connected, from exam to treatment.',
          chips=['Examination','Diagnosis','Prescriptions','Lab & imaging','Treatment'],
          stack='Connected clinical workflows',platforms='Doctors · Clinical staff'),
-    dict(slug='private-nest',index='04',title='Private Nest',accent='#f9a8d4',visual='orbit',
+    dict(slug='nami',index='04',title='Nami Exchange',accent='#a5b4fc',visual='depth',
+         kicker='CRYPTO · NAMI EXCHANGE',badge='SHIPPED',
+         text='Crypto trading interfaces for a multiplatform exchange: rebuilding UI, improving performance, and fixing defects across the screens traders rely on.',
+         chips=['UI rebuild','Performance tuning','Defect fixes','Multiplatform'],
+         stack='Crypto trading interfaces',platforms='iOS · Android'),
+    dict(slug='private-nest',index='05',title='Private Nest',accent='#f9a8d4',visual='orbit',
          kicker='INDIE PRODUCT · CREATOR & OWNER',badge='INDIE',
          text='A couple-focused app for shared funds, wardrobes, AI outfit ideas, and memories, taken from an idea to App Store and Google Play releases.',
          chips=['Shared funds','Wardrobes','AI outfit ideas','Memories'],
@@ -40,6 +45,8 @@ CSS=('text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consol
      '.heart{transform-box:fill-box;transform-origin:center;animation:heart 1.8s ease-in-out infinite}'
      '.twinkle{animation:blink 3s ease-in-out infinite}'
      '.halo{animation:halo 4s ease-in-out infinite}'
+     '.sway{transform-box:fill-box;transform-origin:50% 100%;animation:sway 2.6s ease-in-out infinite alternate}'
+     '@keyframes sway{from{transform:scaleY(.82)}to{transform:scaleY(1)}}'
      '@keyframes draw{0%{stroke-dashoffset:900}55%,100%{stroke-dashoffset:0}}'
      '@keyframes bar{from{transform:scaleY(.35)}to{transform:scaleY(1)}}'
      '@keyframes blink{50%{opacity:.2}}'
@@ -128,7 +135,28 @@ def orbit(x,y,w,h,accent):
             f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx+r*1.1:.0f}" cy="{cy}" r="6" fill="#89ddff"/><circle cx="{cx-r*1.1:.0f}" cy="{cy}" r="4" fill="#c4b5fd"/></g>'
             f'<path class="heart" d="{heart}" fill="{accent}"/>')
 
-VISUALS=dict(chart=chart,ticker=ticker,pulse=pulse,orbit=orbit)
+def depth(x,y,w,h,accent):
+    rnd=random.Random(5);mid=x+w/2;steps=10;sw=(w/2-8)/steps
+    bid=[f'M{mid-6:.1f},{y+h}'];ask=[f'M{mid+6:.1f},{y+h}'];level=0
+    for i in range(steps):
+        level+=rnd.uniform(.06,.11)
+        top=y+h-min(level,1)*h
+        bid.append(f'V{top:.1f} H{mid-6-(i+1)*sw:.1f}')
+    bid.append(f'V{y+h} Z');level=0
+    for i in range(steps):
+        level+=rnd.uniform(.06,.11)
+        top=y+h-min(level,1)*h
+        ask.append(f'V{top:.1f} H{mid+6+(i+1)*sw:.1f}')
+    ask.append(f'V{y+h} Z')
+    return (f'<g class="sway"><path d="{" ".join(bid)}" fill="#89ddff" fill-opacity=".22" stroke="#89ddff" stroke-width="2"/></g>'
+            f'<g class="sway" style="animation-delay:-1.2s"><path d="{" ".join(ask)}" fill="#f0abfc" fill-opacity=".2" stroke="#f0abfc" stroke-width="2"/></g>'
+            f'<line class="blink" x1="{mid}" y1="{y-2}" x2="{mid}" y2="{y+h}" stroke="{accent}" stroke-dasharray="3 4"/>'
+            f'<line x1="{x}" y1="{y+h+1}" x2="{x+w}" y2="{y+h+1}" stroke="{BORDER}"/>'
+            f'<text class="mono" x="{x}" y="{y-10}" font-size="11" fill="#89ddff">BID</text>'
+            f'<text class="mono" x="{x+w}" y="{y-10}" font-size="11" fill="#f0abfc" text-anchor="end">ASK</text>'
+            f'<text class="mono" x="{mid}" y="{y-10}" font-size="11" fill="{SOFT}" text-anchor="middle">BTC/USDT</text>')
+
+VISUALS=dict(chart=chart,ticker=ticker,pulse=pulse,orbit=orbit,depth=depth)
 
 def frame(w,h,p,animated,body):
     a=p['accent']
@@ -170,7 +198,7 @@ def desktop(p,animated):
     body.append(VISUALS[p['visual']](716,96,244,108,a))
     body+= [f'<line x1="36" y1="234" x2="964" y2="234" stroke="{BORDER}"/>',
             f'<text x="36" y="266" font-size="13" fill="{SOFT}"><tspan fill="{a}">◆</tspan>  {escape(p["stack"])}</text>',
-            f'<text class="mono" x="964" y="266" font-size="12" fill="{SOFT}" text-anchor="end">{escape(p["platforms"])}  ·  {p["index"]}/04</text>']
+            f'<text class="mono" x="964" y="266" font-size="12" fill="{SOFT}" text-anchor="end">{escape(p["platforms"])}  ·  {p["index"]}/{len(PROJECTS):02d}</text>']
     return frame(W,H,p,animated,''.join(body))
 
 def mobile(p,animated):
@@ -190,7 +218,7 @@ def mobile(p,animated):
     y+=132
     body+= [f'<line x1="28" y1="{y}" x2="572" y2="{y}" stroke="{BORDER}"/>',
             f'<text x="28" y="{y+34}" font-size="16" fill="{SOFT}"><tspan fill="{a}">◆</tspan>  {escape(p["stack"])}</text>',
-            f'<text class="mono" x="572" y="{y+34}" font-size="13" fill="{SOFT}" text-anchor="end">{p["index"]}/04</text>']
+            f'<text class="mono" x="572" y="{y+34}" font-size="13" fill="{SOFT}" text-anchor="end">{p["index"]}/{len(PROJECTS):02d}</text>']
     return frame(W,y+56,p,animated,''.join(body))
 
 if __name__=='__main__':
