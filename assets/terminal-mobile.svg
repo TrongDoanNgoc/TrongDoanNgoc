@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-labelledby="title">
+<title id="title">Trong's engineering loop: design with intention, build with TypeScript, ship mobile and web.</title>
+<style>text{font-family:Menlo,Consolas,monospace}.type{animation:typing 10s steps(46,end) infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}.orbit{transform-origin:875px 140px;animation:spin 16s linear infinite}.petal{animation:glow 4s ease-in-out infinite}@keyframes typing{0%,6%{clip-path:inset(0 100% 0 0)}40%,90%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}@keyframes blink{50%{opacity:0}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes glow{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="598" height="268" rx="18" fill="#171122" stroke="#49345f"/>
+<path d="M1 43H599" stroke="#49345f"/><circle cx="25" cy="23" r="5" fill="#f0abfc"/><circle cx="44" cy="23" r="5" fill="#c4b5fd"/><circle cx="63" cy="23" r="5" fill="#89ddff"/>
+<text x="90" y="28" fill="#b8a5d0" font-size="12">trong@studio ~ / studio</text>
+<text x="30" y="83" fill="#c4b5fd" font-size="16">❯</text>
+<g class="type"><text x="56" y="83" fill="#f5f0ff" font-size="16">npx create-something-people-love</text></g>
+<text x="30" y="124" fill="#89ddff" font-size="16">✓ <tspan fill="#ddceed">Design with intention.</tspan></text>
+<text x="30" y="157" fill="#c4b5fd" font-size="16">✓ <tspan fill="#ddceed">Build with React Native + React + TypeScript.</tspan></text>
+<text x="30" y="190" fill="#f0abfc" font-size="16">✓ <tspan fill="#ddceed">Refine the details. Ship. Learn. Repeat.</tspan></text>
+<text x="30" y="225" fill="#c4b5fd" font-size="16">❯ <tspan class="cursor">▍</tspan></text>
+</svg>

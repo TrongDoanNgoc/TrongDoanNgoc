@@ -1,13 +1,24 @@
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/header-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/header.svg" />
   <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
   <img src="assets/header.svg" width="100%" alt="Doan Ngoc Trong — Mobile. Web. Made to matter. React Native, React and TypeScript engineer in Ho Chi Minh City." />
 </picture>
 
 <p align="center">
-  <a href="https://portfolio-dnt.vercel.app"><b>Explore my portfolio ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/trongdoanngocdev01">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:trong.doanngoc2023@gmail.com">Let's talk</a>
+  <a href="https://portfolio-dnt.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_my_world-C4B5FD?style=for-the-badge&amp;labelColor=211A32" alt="Explore my portfolio" /></a>
+  <a href="https://linkedin.com/in/trongdoanngocdev01"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-F0ABFC?style=for-the-badge&amp;labelColor=211A32&amp;logo=linkedin&amp;logoColor=F0ABFC" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:trong.doanngoc2023@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-89DDFF?style=for-the-badge&amp;labelColor=211A32" alt="Email Trong" /></a>
 </p>
+
+<p align="center"><b>✦ Mobile engineer &nbsp; ✦ Web craftsman &nbsp; ✦ Indie builder</b></p>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/terminal-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/terminal.svg" />
+  <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg" />
+  <img src="assets/terminal.svg" width="100%" alt="My engineering loop: design with intention, build with React Native, React and TypeScript, refine and ship." />
+</picture>
 
 ## Good products earn trust. Great interfaces keep it.
 
@@ -17,9 +28,12 @@ Currently building **HD Invest at HD Securities**. My work spans financial servi
 
 I care about the whole path to production: understandable architecture, responsive interactions, dependable data flows, and the small details that make software feel considered.
 
-<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-## 01 / Selected work
+## ✦ 01 / Selected work
 
 Real products. Real workflows. Shipped to the people who use them.
 
@@ -76,9 +90,12 @@ Crypto trading interfaces: **UI rebuilds, performance improvements, and defect f
 
 </details>
 
-<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-## 02 / How I approach the work
+## ✧ 02 / How I approach the work
 
 **Build for the interaction.** Loading, empty, error, and success states are all part of the product. Motion should make an interface easier to understand and satisfying to use.
 
@@ -88,9 +105,16 @@ Crypto trading interfaces: **UI rebuilds, performance improvements, and defect f
 
 **Own the last mile.** Implementation is one part of shipping. I care about the path from the design to a usable release, and use AI-assisted tooling with human review.
 
-<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-## 03 / My toolkit
+## ❋ 03 / My toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,firebase,supabase,figma,git,github&amp;perline=6&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Firebase, Supabase, Figma, Git, GitHub" width="420" />
+</p>
 
 | Focus | Tools I work with |
 | :--- | :--- |
@@ -101,9 +125,12 @@ Crypto trading interfaces: **UI rebuilds, performance improvements, and defect f
 | **Services & storage** | Firebase · Supabase · Node.js · MySQL · MongoDB |
 | **Delivery** | Git · Jira · Agile / Scrum · Cursor · MCP |
 
-<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-## 04 / The journey
+## ✦ 04 / The journey
 
 | When | Where | Product focus |
 | :--- | :--- | :--- |
@@ -113,14 +140,54 @@ Crypto trading interfaces: **UI rebuilds, performance improvements, and defect f
 | Sep 2023 — Nov 2024 | Bitech | BiEdu & Bikids · education |
 | Oct 2022 — Feb 2023 | Nami Exchange | Crypto trading interfaces |
 
-<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-## 05 / Beyond the day job
+## ✧ 05 / Beyond the day job
 
 **[Private Nest](https://apps.apple.com/app/id6779894095)** is where I practice independent product ownership. You can also explore [nodebase](https://github.com/TrongDoanNgoc/nodebase) and the source for [my portfolio](https://github.com/TrongDoanNgoc/portfolio-dnt).
 
+<p>
+  <a href="https://github.com/TrongDoanNgoc/nodebase"><img src="assets/github/nodebase.svg" width="420" alt="Explore the nodebase repository" /></a>
+  <a href="https://github.com/TrongDoanNgoc/portfolio-dnt"><img src="assets/github/portfolio.svg" width="420" alt="Explore the portfolio-dnt repository" /></a>
+</p>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/divider.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+## ❋ 06 / The GitHub playground
+
+A little lavender, a lot of commits. Cards and contribution art refresh daily through GitHub Actions.
+
+<a href="https://github.com/TrongDoanNgoc?tab=overview">
+  <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/github/activity-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/github/activity.svg" />
+    <source media="(max-width: 600px)" srcset="assets/github/activity-mobile.svg" />
+    <img src="assets/github/activity.svg" width="100%" alt="GitHub contributions, public repositories, active days, and weekly activity. See the date range inside the card." />
+  </picture>
+</a>
+
+### Feed the snake 🐍
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/github/contributions.svg" />
+  <img src="assets/github/snake.svg" width="100%" alt="A pink snake travels through my real GitHub contribution calendar, eating lavender contribution cells." />
+</picture>
+
 <details>
-<summary><b>Under the hood / coding activity</b></summary>
+<summary><b>✦ See the original contribution garden</b></summary>
+
+<img src="assets/github/contributions.svg" width="100%" alt="My GitHub contribution calendar in five shades of lavender, with its date range." />
+
+</details>
+
+<details>
+<summary><b>⌘ Under the hood / weekly coding activity</b></summary>
 
 Activity for the date range below, updated by the repository's WakaTime workflow.
 
@@ -147,6 +214,8 @@ SQL          11 mins       ░░░░░░░░░░░░░░░░░�
 
 <a href="mailto:trong.doanngoc2023@gmail.com">
   <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/static/footer-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/footer.svg" />
     <source media="(max-width: 600px)" srcset="assets/footer-mobile.svg" />
     <img src="assets/footer.svg" width="100%" alt="Let's make it real. Get in touch with Trong to talk about your next product." />
   </picture>

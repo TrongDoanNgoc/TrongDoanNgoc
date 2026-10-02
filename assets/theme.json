@@ -1,0 +1,10 @@
+{
+  "background": "#171122",
+  "border": "#49345f",
+  "lavender": "#c4b5fd",
+  "pink": "#f0abfc",
+  "sky": "#89ddff",
+  "text": "#f5f0ff",
+  "muted": "#c7bddb",
+  "contributions": ["#271d39", "#513a75", "#815bb3", "#ac87df", "#d8b4fe"]
+}

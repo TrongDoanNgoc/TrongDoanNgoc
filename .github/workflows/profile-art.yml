@@ -1,0 +1,80 @@
+name: Lavender profile art
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '25 1 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'assets/theme.json'
+      - '.github/workflows/profile-art.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lavender-profile-art
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Render GitHub metrics and repository cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update-profile.py
+      - name: Generate lavender contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: TrongDoanNgoc
+          outputs: |
+            assets/github/snake.svg?color_snake=#f0abfc&color_dots=#271d39,#513a75,#815bb3,#ac87df,#d8b4fe
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Respect reduced-motion preferences
+        run: |
+          python3 scripts/finish-snake.py
+          python3 scripts/build-static.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: lavender-profile-art
+          path: |
+            assets/github/*.svg
+            assets/static/github/*.svg
+          retention-days: 2
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/download-artifact@v4
+        with:
+          name: lavender-profile-art
+          path: assets
+      - name: Commit refreshed assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github assets/static/github
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m 'Refresh lavender profile artwork'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          exit 1
