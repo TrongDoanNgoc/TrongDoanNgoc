@@ -246,18 +246,18 @@ Activity for the date range below, updated by the repository's WakaTime workflow
 
 <!--START_SECTION:waka-->
 ```text
-From: 18 November 2026 - To: 25 November 2026
+From: 19 November 2026 - To: 26 November 2026
 
-Total Time: 33 hrs 25 mins
+Total Time: 34 hrs 25 mins
 
-Other        12 hrs 52 mins █████████░░░░░░░░░░░░░░░   38.51 %
-TypeScript   5 hrs 8 mins   ████░░░░░░░░░░░░░░░░░░░░   15.37 %
-Dart         5 hrs 3 mins   ████░░░░░░░░░░░░░░░░░░░░   15.14 %
-JSON         3 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░░░░   11.61 %
-YAML         2 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░    7.49 %
-Markdown     1 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░    4.45 %
-Text         1 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░    3.20 %
-JavaScript   32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1.64 %
+Other        15 hrs 13 mins ███████████░░░░░░░░░░░░░   44.22 %
+TypeScript   5 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░   15.70 %
+JSON         3 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░░░░   11.24 %
+YAML         2 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░    6.75 %
+Dart         2 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░░░░    6.62 %
+Markdown     2 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░    6.01 %
+Bash         1 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░    4.69 %
+Text         57 mins        █░░░░░░░░░░░░░░░░░░░░░░░    2.77 %
 ```
 <!--END_SECTION:waka-->
 
